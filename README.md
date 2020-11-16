@@ -78,7 +78,7 @@
 | Abigail Spanberger | RepSpanberger    | 2018-12-28T00:00:00Z | 1078771401497161728 | female | United States of America | repspanberger      | Democratic Party |
 | Abigail Spanberger | SpanbergerVA07   | 2018-12-28T00:00:00Z | 1078771401497161728 | female | United States of America | repspanberger      | Democratic Party | 
  
- CSV : 2247 rows.
+ CSV : 2591 rows.
 
 # Changes
 ## November 17, 2020
@@ -89,7 +89,7 @@
 
  Removed one variable:
  - Image
- 
+
  Modified:
  - birth -> country of birth (```Birthplace```)
 
