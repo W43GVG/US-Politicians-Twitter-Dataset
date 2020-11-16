@@ -4,16 +4,16 @@
  Variables :
 
  1. Mandatory
-    a. Name
-    b. Twitter username
-    c. Sex
-    d. Birth
+    - Name
+    - Twitter username
+    - Sex
+    - Birth
 2. Optional
-    a. Instagram
-    b. Political party
-    c. Image
+    - Instagram
+    - Political party
+    - Image
 
- The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several photos are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [example](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#example) part, where José Enrique Serrano is present twice.
+ The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several photos are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [example](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#examples) part, where José Enrique Serrano is present twice.
 
 # Examples
 ## JSON
