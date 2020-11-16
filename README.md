@@ -1,28 +1,21 @@
 # US Politicians Twitter Dataset
  Dataset based on usernames of American politicians. Data extracted from Wikidata.
  
- Variables : 
+ Variables :
+
  1. Mandatory
-
     a. Name
-
     b. Twitter username
-
     c. Sex
-
     d. Birth
-
 2. Optional
-
     a. Instagram
-    
     b. Political party
-    
     c. Image
 
  The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several photos are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [example](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#example) part, where José Enrique Serrano is present twice.
 
-# Example
+# Examples
 ## JSON
 ```json
     {
@@ -67,6 +60,7 @@
 | Aaron Peskin       | AaronPeskin      | male | Berkeley  | apeskin52   | Democratic Party | http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20peskin%20%2815289024971%29.jpg                                    |
 | Aaron Peña         | AaronPena        | male | Austin    |             | Republican Party | http://commons.wikimedia.org/wiki/Special:FilePath/Aaronpenadais.jpg                                                         |
 | Aaron Schock       | aaronschock      | male | Morris    | aaronschock | Republican Party | http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Schock%2C%20official%20photo%20portrait%2C%20111th%20Congress.jpg |
+ 
  CSV : 2247 rows.
 
 Last update: November 16, 2020.
