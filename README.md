@@ -17,6 +17,9 @@
 
 # Examples
 ## JSON
+
+[dataset.json](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.csv)
+
 ```json
     {
         "Name": "José Enrique Serrano",
@@ -53,6 +56,9 @@
     },
 ```
 ## CSV
+
+[dataset.csv](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.csv)
+
 | Name               | Twitter username | Sex  | Birth     | Instagram   | Political party  | Image                                                                                                                        |
 |--------------------|------------------|------|-----------|-------------|------------------|------------------------------------------------------------------------------------------------------------------------------|
 | A. Donald McEachin | RepMcEachin      | male | Nuremberg | repmceachin | Democratic Party | http://commons.wikimedia.org/wiki/Special:FilePath/Donald%20McEachin%20portrait%20116th%20Congress.jpg                       |
