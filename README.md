@@ -8,21 +8,20 @@
     - ```Name```
     - ```Twitter_username```
     - ```Sex```
-    - ```Birth```
 2. Optional
     - ```Account_start_time```
     - ```Account_ID```
-    - ```Instagram```
+    - ```Instagram_username```
     - ```Birthplace```
-    - ```Political party```
+    - ```Political_party```
     - ~~Image~~
 
- The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several Twitter account IDs are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [example](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#examples) part, where Julia Brownley is present twice.
+ The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several Twitter account IDs are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [examples](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#examples) part, where Julia Brownley is present twice.
 
 # Examples
 ## JSON
 
-[dataset.json](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.csv)
+[dataset.json](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.json)
 
 ```json
     {
@@ -87,8 +86,10 @@
  Added two variables:
  - Account_start_time
  - Account_ID
+
  Removed one variable:
  - Image
+ 
  Modified:
  - birth -> country of birth (```Birthplace```)
 
