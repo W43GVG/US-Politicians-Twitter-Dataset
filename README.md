@@ -3,13 +3,21 @@
  
  Variables : 
  1. Mandatory
+
     a. Name
+
     b. Twitter username
+
     c. Sex
+
     d. Birth
+
 2. Optional
+
     a. Instagram
+    
     b. Political party
+    
     c. Image
 
  CSV : 2247 rows.
