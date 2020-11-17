@@ -13,6 +13,8 @@
     - ```Account_ID```
     - ```Instagram_username```
     - ```Birthplace```
+    - ```Birthday```
+    - ```Age```
     - ```Political_party```
     - ~~Image~~
 
@@ -89,11 +91,11 @@
  CSV : 2515  rows.
 
 # Changes
-## November 17, 2020 (2)
+## November 17, 2020  (2)
 
  Added two variables:
- - ```Birthplace```
  - ```Birthday```
+ - ```Age```
 
  Refining the results (e.g., removal of politicians who are American but practising in other countries).
 
