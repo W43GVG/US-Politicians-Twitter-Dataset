@@ -130,7 +130,7 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
 
 ## Last update
 
- November 17, 2020.
+ November 29, 2020.
 
 # License, notes
 
