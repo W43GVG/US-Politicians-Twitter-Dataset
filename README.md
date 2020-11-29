@@ -21,7 +21,16 @@
  The same politician can appear several times: if he has different pseudonyms on Twitter or Instagram, if he has been in several parties, or if several Twitter account IDs are associated with him. But the data is sorted in ascending order by name, so it is visible. See the [examples](https://github.com/W43GVG/US-Politicians-Twitter-Dataset#examples) part, where Julia Brownley is present twice.
 
 # Examples
+
+```
+git clone https://github.com/W43GVG/US-Politicians-Twitter-Dataset
+```
+
 ## JSON
+
+```
+wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/master/dataset.json
+```
 
 [dataset.json](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.json)
 
@@ -74,6 +83,10 @@
     },
 ```
 ## CSV
+
+```
+wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/master/dataset.csv
+```
 
 [dataset.csv](https://github.com/W43GVG/US-Politicians-Twitter-Dataset/blob/master/dataset.csv)
 
