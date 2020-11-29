@@ -1,4 +1,4 @@
-Name,Twitter_username,Account_start_time,Account_ID,Sex,Birthplace,Birthday,Age,Instagram_username,Political_party
+Name,Twitter_username,Account_start_time,Account_ID,Sex,Birthplace,birthday,age,Instagram_username,Political_party
 A. Donald McEachin,RepMcEachin,2017-01-03T00:00:00Z,816181091673448448,male,Germany,1961-10-10T00:00:00Z,59.0,repmceachin,Democratic Party
 Aaron Michlewitz,RepMichlewitz,2010-06-27T00:00:00Z,160246973,male,United States of America,1978-01-01T00:00:00Z,42.0,,Democratic Party
 Aaron Peskin,AaronPeskin,2010-11-13T00:00:00Z,215369273,male,United States of America,1964-06-17T00:00:00Z,56.0,apeskin52,Democratic Party
@@ -20,8 +20,6 @@ Adrian Smith,RepAdrianSmith,2011-05-10T00:00:00Z,296245061,male,United States of
 Adriano Espaillat,RepEspaillat,2017-01-05T00:00:00Z,817076257770835968,male,Dominican Republic,1954-09-27T00:00:00Z,66.0,repadrianoespaillat,Democratic Party
 Aftab Pureval,aftabpureval,2014-03-20T00:00:00Z,2400005258,male,United States of America,1982-09-09T00:00:00Z,38.0,aftabpureval,Democratic Party
 Aja Brown,AjaLBrown,2013-02-12T00:00:00Z,1173297636,female,United States of America,1982-04-17T00:00:00Z,38.0,ajalbrown,Democratic Party
-Akiko Dōmoto,domotoakiko,2010-05-20T00:00:00Z,145969967,female,United States of America,1932-07-31T00:00:00Z,88.0,,New Party Sakigake
-Akiko Dōmoto,domotoakiko,2010-05-20T00:00:00Z,145969967,female,United States of America,1932-07-31T00:00:00Z,88.0,,Japan Socialist Party
 Al Franken,alfranken,2007-07-08T00:00:00Z,7334402,male,United States of America,1951-05-21T00:00:00Z,69.0,,Minnesota Democratic–Farmer–Labor Party
 Al Franken,alfranken,2007-07-08T00:00:00Z,7334402,male,United States of America,1951-05-21T00:00:00Z,69.0,,Democratic Party
 Al Gore,algore,2008-11-06T00:00:00Z,17220934,male,United States of America,1948-03-31T00:00:00Z,72.0,,Democratic Party
@@ -64,6 +62,7 @@ Amy McGrath,AmyMcGrathKY,2014-08-31T00:00:00Z,2783231383,female,United States of
 Ana Sol Gutierrez,asolg,2010-02-06T00:00:00Z,111989710,female,El Salvador,1942-01-11T00:00:00Z,78.0,,Democratic Party
 Anatoly Kashpirovsky,Kashpirovskiy,2010-10-12T00:00:00Z,201615962,male,Ukraine,1939-08-11T00:00:00Z,81.0,anatoly_kashpirovskiy,LDPR
 Ander Crenshaw,AnderCrenshaw,2009-02-06T00:00:00Z,20209807,male,United States of America,1944-09-01T00:00:00Z,76.0,,Republican Party
+Andrea Jenkins,annapoetic,,,transgender female,United States of America,1960-01-01T00:00:00Z,60.0,shesgotgame1,Minnesota Democratic–Farmer–Labor Party
 Andrea Stewart-Cousins,andreascousins,2009-04-30T00:00:00Z,36745613,female,United States of America,1950-09-02T00:00:00Z,70.0,,Democratic Party
 Andrew Cuomo,NYGovCuomo,2010-12-30T00:00:00Z,232268199,male,United States of America,1957-12-06T00:00:00Z,62.0,andrewcuomo,Democratic Party
 Andrew Gillum,AndrewGillum,2012-01-15T00:00:00Z,465046121,male,United States of America,1979-07-26T00:00:00Z,41.0,andrewgillum,Florida Democratic Party
@@ -76,10 +75,10 @@ Andy Barr,RepAndyBarr,2013-01-14T00:00:00Z,1089334250,male,United States of Amer
 Andy Beshear,AndyBeshearKY,2015-01-20T00:00:00Z,2991360032,male,United States of America,1977-11-29T00:00:00Z,42.0,,Democratic Party
 Andy Biggs,RepAndyBiggsAZ,2017-01-04T00:00:00Z,816652616625168388,male,United States of America,1958-11-07T00:00:00Z,62.0,repandybiggs,Republican Party
 Andy Harris,RepAndyHarrisMD,2012-11-20T00:00:00Z,960962340,male,United States of America,1957-01-25T00:00:00Z,63.0,,Republican Party
-Andy Kim,RepAndyKimNJ,2018-12-28T00:00:00Z,1078771848882593793,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
-Andy Kim,AndyKimNJ,2018-12-28T00:00:00Z,1078771848882593793,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
 Andy Kim,RepAndyKimNJ,2009-03-13T00:00:00Z,24215154,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
 Andy Kim,AndyKimNJ,2009-03-13T00:00:00Z,24215154,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
+Andy Kim,RepAndyKimNJ,2018-12-28T00:00:00Z,1078771848882593793,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
+Andy Kim,AndyKimNJ,2018-12-28T00:00:00Z,1078771848882593793,male,United States of America,1982-07-12T00:00:00Z,38.0,andykimnj,Democratic Party
 Andy Levin,RepAndyLevin,2019-01-01T00:00:00Z,1080277407867772930,male,United States of America,1960-08-10T00:00:00Z,60.0,,Democratic Party
 Andy Schor,andyschor,,,male,United States of America,1975-03-20T00:00:00Z,45.0,andyschor,Democratic Party
 Angela Alsobrooks,CEXAlsobrooks,2008-08-01T00:00:00Z,15935867,female,United States of America,1971-02-23T00:00:00Z,49.0,,Democratic Party
@@ -94,16 +93,16 @@ Angie Craig,RepAngieCraig,2011-11-13T00:00:00Z,411861905,female,United States of
 Angus King,SenAngusKing,,,male,United States of America,1944-03-31T00:00:00Z,76.0,,independent politician
 Angus King,SenAngusKing,2013-01-07T00:00:00Z,1068481578,male,United States of America,1944-03-31T00:00:00Z,76.0,,independent politician
 Anitere Flores,anitere_flores,2009-12-08T00:00:00Z,95357369,female,United States of America,1976-09-08T00:00:00Z,44.0,,Republican Party
-Ann Kirkpatrick,RepKirkpatrick,2019-01-04T00:00:00Z,1081240074946252801,female,United States of America,1950-03-24T00:00:00Z,70.0,,Democratic Party
-Ann Kirkpatrick,Ann_Kirkpatrick,2019-01-04T00:00:00Z,1081240074946252801,female,United States of America,1950-03-24T00:00:00Z,70.0,,Democratic Party
-Ann Kirkpatrick,RepKirkpatrick,2011-03-25T00:00:00Z,272004287,female,United States of America,1950-03-24T00:00:00Z,70.0,,Democratic Party
-Ann Kirkpatrick,Ann_Kirkpatrick,2011-03-25T00:00:00Z,272004287,female,United States of America,1950-03-24T00:00:00Z,70.0,,Democratic Party
+Ann Kirkpatrick,RepKirkpatrick,2019-01-04T00:00:00Z,1081240074946252801,female,United States of America,1950-03-24T00:00:00Z,70.0,repannkirkpatrick,Democratic Party
+Ann Kirkpatrick,Ann_Kirkpatrick,2019-01-04T00:00:00Z,1081240074946252801,female,United States of America,1950-03-24T00:00:00Z,70.0,repannkirkpatrick,Democratic Party
+Ann Kirkpatrick,RepKirkpatrick,2011-03-25T00:00:00Z,272004287,female,United States of America,1950-03-24T00:00:00Z,70.0,repannkirkpatrick,Democratic Party
+Ann Kirkpatrick,Ann_Kirkpatrick,2011-03-25T00:00:00Z,272004287,female,United States of America,1950-03-24T00:00:00Z,70.0,repannkirkpatrick,Democratic Party
 Ann McLane Kuster,RepAnnieKuster,2013-01-03T00:00:00Z,1058717720,female,United States of America,1956-09-05T00:00:00Z,64.0,,Democratic Party
 Ann Romney,AnnRomney,2011-03-10T00:00:00Z,263758909,female,United States of America,1949-04-16T00:00:00Z,71.0,,Republican Party
 Ann Wagner,RepAnnWagner,2012-12-31T00:00:00Z,1051446626,female,United States of America,1962-09-13T00:00:00Z,58.0,repannwagner,Republican Party
 Anna Eshoo,RepAnnaEshoo,2011-02-08T00:00:00Z,249348006,female,United States of America,1942-12-13T00:00:00Z,77.0,repannaeshoo,Democratic Party
 Anna M. Valencia,annavalenciail,2014-04-15T00:00:00Z,2445918049,female,United States of America,1985-01-16T00:00:00Z,35.0,,Democratic Party
-Annagrazia Calabria,AngieCalabria,,t2069084574,female,United States of America,1982-05-06T00:00:00Z,38.0,,The People of Freedom
+Annagrazia Calabria,AngieCalabria,,t2110240126,female,United States of America,1982-05-06T00:00:00Z,38.0,,The People of Freedom
 Annise Parker,AnniseParker,2009-01-20T00:00:00Z,19249328,female,United States of America,1956-05-17T00:00:00Z,64.0,anniseparker,Democratic Party
 Anthony Brindisi,RepBrindisi,2012-10-31T00:00:00Z,915831762,male,United States of America,1978-11-22T00:00:00Z,41.0,,Democratic Party
 Anthony Brindisi,abrindisiny,2012-10-31T00:00:00Z,915831762,male,United States of America,1978-11-22T00:00:00Z,41.0,,Democratic Party
@@ -130,7 +129,9 @@ Aravella Simotas,AravellaSimotas,2009-05-01T00:00:00Z,37055926,female,Zimbabwe,1
 Ari Fleischer,AriFleischer,,,male,United States of America,1960-10-13T00:00:00Z,60.0,,Republican Party
 Arianna Huffington,ariannahuff,2009-02-25T00:00:00Z,21982720,female,Greece,1950-07-15T00:00:00Z,70.0,ariannahuff,Democratic Party
 Arne Duncan,arneduncan,2015-12-27T00:00:00Z,4662969794,male,United States of America,1964-11-06T00:00:00Z,56.0,,Democratic Party
-Arthur B. Robinson,artforcongress,,t2087572521,male,United States of America,1942-03-24T00:00:00Z,78.0,,Republican Party
+Arnold Schwarzenegger,Schwarzenegger,2008-01-01T00:00:00Z,12044602,male,Austria,1947-07-30T00:00:00Z,73.0,schwarzenegger,Republican Party
+Arnold Schwarzenegger,Schwarzenegger,2008-01-09T00:00:00Z,12044602,male,Austria,1947-07-30T00:00:00Z,73.0,schwarzenegger,Republican Party
+Arthur B. Robinson,artforcongress,,t2112747828,male,United States of America,1942-03-24T00:00:00Z,78.0,,Republican Party
 Arthur J. Jones,artjonescongres,2018-02-04T00:00:00Z,960396814456426496,male,United States of America,1948-01-01T00:00:00Z,72.0,,Republican Party
 Arthur J. Jones,artjonescongres,2018-02-04T00:00:00Z,960396814456426496,male,United States of America,1948-01-01T00:00:00Z,72.0,,American Nazi Party
 Arthur J. Jones,artjonescongres,2018-02-04T00:00:00Z,960396814456426496,male,United States of America,1948-01-01T00:00:00Z,72.0,,Populist Party
@@ -148,18 +149,18 @@ Aumua Amata,amata96799,2009-01-24T00:00:00Z,19447958,female,United States of Ame
 Aumua Amata,RepAmata,2015-02-09T00:00:00Z,3026622545,female,United States of America,1947-12-29T00:00:00Z,72.0,,Republican Party
 Aumua Amata,amata96799,2015-02-09T00:00:00Z,3026622545,female,United States of America,1947-12-29T00:00:00Z,72.0,,Republican Party
 Austin Petersen,AP4Liberty,,,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
-Austin Petersen,the_producer14,,,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
 Austin Petersen,AP4Liberty,,,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Libertarian Party
+Austin Petersen,the_producer14,,,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
 Austin Petersen,the_producer14,,,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Libertarian Party
 Austin Petersen,AP4Liberty,2015-12-31T00:00:00Z,4686170306,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
-Austin Petersen,the_producer14,2015-12-31T00:00:00Z,4686170306,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
 Austin Petersen,AP4Liberty,2015-12-31T00:00:00Z,4686170306,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Libertarian Party
+Austin Petersen,the_producer14,2015-12-31T00:00:00Z,4686170306,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Republican Party
 Austin Petersen,the_producer14,2015-12-31T00:00:00Z,4686170306,male,United States of America,1981-02-19T00:00:00Z,39.0,ap4liberty,Libertarian Party
 Austin Scott,AustinScottGA08,2011-01-06T00:00:00Z,234797704,male,United States of America,1969-12-10T00:00:00Z,50.0,,Republican Party
 Ayanna Pressley,RepPressley,2019-01-02T00:00:00Z,1080584229510172678,female,United States of America,1974-02-03T00:00:00Z,46.0,ayannapressley,Democratic Party
-Ayanna Pressley,AyannaPressley,2019-01-02T00:00:00Z,1080584229510172678,female,United States of America,1974-02-03T00:00:00Z,46.0,ayannapressley,Democratic Party
 Ayanna Pressley,RepPressley,2009-04-14T00:00:00Z,31013444,female,United States of America,1974-02-03T00:00:00Z,46.0,ayannapressley,Democratic Party
 Ayanna Pressley,AyannaPressley,2009-04-14T00:00:00Z,31013444,female,United States of America,1974-02-03T00:00:00Z,46.0,ayannapressley,Democratic Party
+Ayanna Pressley,AyannaPressley,2019-01-02T00:00:00Z,1080584229510172678,female,United States of America,1974-02-03T00:00:00Z,46.0,ayannapressley,Democratic Party
 Barack Obama,BarackObama,2013-06-01T00:00:00Z,822215679726100480,male,United States of America,1961-08-04T00:00:00Z,59.0,barackobama,Democratic Party
 Barack Obama,BarackObama,2013-06-21T00:00:00Z,1536791610,male,United States of America,1961-08-04T00:00:00Z,59.0,barackobama,Democratic Party
 Barack Obama,BarackObama,2017-01-20T00:00:00Z,1536791610,male,United States of America,1961-08-04T00:00:00Z,59.0,barackobama,Democratic Party
@@ -199,6 +200,7 @@ Ben McAdams,RepBenMcAdams,,,male,United States of America,1974-12-05T00:00:00Z,4
 Ben R. Luján,repbenraylujan,2009-01-22T00:00:00Z,19318314,male,United States of America,1972-06-07T00:00:00Z,48.0,repbenraylujan,Democratic Party
 Ben Sasse,SenSasse,2015-01-05T00:00:00Z,2962923040,male,United States of America,1972-02-22T00:00:00Z,48.0,senatorsasse,Republican Party
 Bennie Thompson,BennieGThompson,2009-10-14T00:00:00Z,82453460,male,United States of America,1948-01-28T00:00:00Z,72.0,benniegthompson,Democratic Party
+Benny Napoleon,BennyNapoleon,,,male,United States of America,1952-01-01T00:00:00Z,68.0,bennynapoleon,Democratic Party
 Bernard C. Young,mayorbcyoung,,,male,United States of America,1954-06-26T00:00:00Z,66.0,mayorbcyoung,Democratic Party
 Bernie Hunhoff,berniehunhoff,2011-01-09T00:00:00Z,236273572,male,United States of America,1951-09-05T00:00:00Z,69.0,,Democratic Party
 Bernie Sanders,BernieSanders,2010-11-17T00:00:00Z,216776631,male,United States of America,1941-09-08T00:00:00Z,79.0,berniesanders,Liberty Union Party
@@ -214,20 +216,21 @@ Beto O'Rourke,RepBetoORourke,2013-01-30T00:00:00Z,1134292500,male,United States 
 Beto O'Rourke,BetoORourke,2013-01-30T00:00:00Z,1134292500,male,United States of America,1972-09-26T00:00:00Z,48.0,betoorourke,Democratic Party
 Betsy DeVos,BetsyDeVos,2012-06-04T00:00:00Z,599530439,female,United States of America,1958-01-08T00:00:00Z,62.0,,Republican Party
 Betsy DeVos,BetsyDeVos,2012-06-04T00:00:00Z,599530439,female,United States of America,1958-01-08T00:00:00Z,62.0,,Michigan Republican Party
-Betty McCollum,BettyMcCollum04,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
-Betty McCollum,BettyMcCollum04,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
+Betsy Price,MayorBetsyPrice,,,female,United States of America,1949-10-21T00:00:00Z,71.0,mayorbetsyprice,Republican Party
 Betty McCollum,VoteBetty,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
 Betty McCollum,VoteBetty,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
-Betty McCollum,BettyMcCollum04,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
-Betty McCollum,BettyMcCollum04,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
 Betty McCollum,VoteBetty,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
 Betty McCollum,VoteBetty,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
+Betty McCollum,BettyMcCollum04,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
+Betty McCollum,BettyMcCollum04,2012-03-06T00:00:00Z,516880804,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
+Betty McCollum,BettyMcCollum04,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Democratic Party
+Betty McCollum,BettyMcCollum04,2010-07-08T00:00:00Z,164414525,female,United States of America,1954-07-12T00:00:00Z,66.0,repbettymccollum,Minnesota Democratic–Farmer–Labor Party
 Betty T. Yee,BettyYeeforCA,2011-11-20T00:00:00Z,417582683,female,United States of America,1957-10-19T00:00:00Z,63.0,bettyyeeforca,Democratic Party
 Bibiana Boerio,Boerio4Congress,2018-04-01T00:00:00Z,980249711755104256,female,United States of America,1954-03-17T00:00:00Z,66.0,,Democratic Party
-Bill Cassidy,BillCassidy,2014-05-06T00:00:00Z,2479160868,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
 Bill Cassidy,SenatorCassidy,2014-05-06T00:00:00Z,2479160868,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
-Bill Cassidy,BillCassidy,2009-07-10T00:00:00Z,55677432,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
+Bill Cassidy,BillCassidy,2014-05-06T00:00:00Z,2479160868,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
 Bill Cassidy,SenatorCassidy,2009-07-10T00:00:00Z,55677432,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
+Bill Cassidy,BillCassidy,2009-07-10T00:00:00Z,55677432,male,United States of America,1957-09-28T00:00:00Z,63.0,,Republican Party
 Bill Clinton,BillClinton,2013-04-05T00:00:00Z,1330457336,male,United States of America,1946-08-19T00:00:00Z,74.0,wjclibrary42,Democratic Party
 Bill Flores,RepBillFlores,2011-01-12T00:00:00Z,237312687,male,United States of America,1954-02-25T00:00:00Z,66.0,repbillflores,Republican Party
 Bill Foster,RepBillFoster,2013-01-11T00:00:00Z,1080509366,male,United States of America,1955-10-07T00:00:00Z,65.0,,Democratic Party
@@ -241,8 +244,8 @@ Bill Lee,GovBillLee,2019-01-14T00:00:00Z,1084924525232513025,male,United States 
 Bill Lee,BillLeeTN,2019-01-14T00:00:00Z,1084924525232513025,male,United States of America,1959-10-09T00:00:00Z,61.0,govbilllee,Republican Party
 Bill Lee,GovBillLee,2017-01-22T00:00:00Z,823248562851037185,male,United States of America,1959-10-09T00:00:00Z,61.0,govbilllee,Republican Party
 Bill Lee,BillLeeTN,2017-01-22T00:00:00Z,823248562851037185,male,United States of America,1959-10-09T00:00:00Z,61.0,govbilllee,Republican Party
-Bill Nelson,senbillnelson,2009-02-11T00:00:00Z,20597460,male,United States of America,1942-01-01T00:00:00Z,78.0,,Democratic Party
-Bill Nelson,senbillnelson,2009-02-11T00:00:00Z,20597460,male,United States of America,1942-09-29T00:00:00Z,78.0,,Democratic Party
+Bill Nelson,senbillnelson,2009-02-11T00:00:00Z,20597460,male,United States of America,1942-01-01T00:00:00Z,78.0,senatorbillnelson,Democratic Party
+Bill Nelson,senbillnelson,2009-02-11T00:00:00Z,20597460,male,United States of America,1942-09-29T00:00:00Z,78.0,senatorbillnelson,Democratic Party
 Bill Pascrell,BillPascrell,2012-03-05T00:00:00Z,515736574,male,United States of America,1937-01-25T00:00:00Z,83.0,,Democratic Party
 Bill Pascrell,PascrellforNJ,2012-03-05T00:00:00Z,515736574,male,United States of America,1937-01-25T00:00:00Z,83.0,,Democratic Party
 Bill Pascrell,BillPascrell,2009-09-15T00:00:00Z,74508260,male,United States of America,1937-01-25T00:00:00Z,83.0,,Democratic Party
@@ -263,8 +266,8 @@ Bob Barr,bobbarr,,,male,United States of America,1948-11-05T00:00:00Z,72.0,,Libe
 Bob Barr,bobbarr,,,male,United States of America,1948-11-05T00:00:00Z,72.0,,Republican Party
 Bob Brady,RepBrady,,,male,United States of America,1945-04-07T00:00:00Z,75.0,repbrady,Democratic Party
 Bob Casey Jr.,SenBobCasey,2009-12-02T00:00:00Z,94154021,male,United States of America,1960-04-13T00:00:00Z,60.0,senbobcasey,Democratic Party
-Bob Casey Jr.,bob_casey,2009-12-02T00:00:00Z,94154021,male,United States of America,1960-04-13T00:00:00Z,60.0,senbobcasey,Democratic Party
 Bob Casey Jr.,SenBobCasey,2010-07-27T00:00:00Z,171598736,male,United States of America,1960-04-13T00:00:00Z,60.0,senbobcasey,Democratic Party
+Bob Casey Jr.,bob_casey,2009-12-02T00:00:00Z,94154021,male,United States of America,1960-04-13T00:00:00Z,60.0,senbobcasey,Democratic Party
 Bob Casey Jr.,bob_casey,2010-07-27T00:00:00Z,171598736,male,United States of America,1960-04-13T00:00:00Z,60.0,senbobcasey,Democratic Party
 Bob Cashell,MayorCashell,2009-11-12T00:00:00Z,89582786,male,United States of America,1938-04-22T00:00:00Z,82.0,,Republican Party
 Bob Cashell,MayorCashell,2009-11-12T00:00:00Z,89582786,male,United States of America,1938-04-22T00:00:00Z,82.0,,Democratic Party
@@ -320,9 +323,9 @@ Brian Kelsey,BrianKelsey,2010-07-02T00:00:00Z,162126945,male,United States of Am
 Brian Kemp,BrianKempGA,2009-06-15T00:00:00Z,47437206,male,United States of America,1963-11-02T00:00:00Z,57.0,govkemp,Republican Party
 Brian Kolb,gopldrbriankolb,,,male,United States of America,1952-08-14T00:00:00Z,68.0,,Republican Party
 Brian Mast,repbrianmast,2016-12-28T00:00:00Z,814103950404239360,male,United States of America,1980-07-10T00:00:00Z,40.0,repbrianmast,Republican Party
+Brian Mast,BrianMastFL,2016-12-28T00:00:00Z,814103950404239360,male,United States of America,1980-07-10T00:00:00Z,40.0,repbrianmast,Republican Party
 Brian Mast,repbrianmast,2015-04-24T00:00:00Z,3170031728,male,United States of America,1980-07-10T00:00:00Z,40.0,repbrianmast,Republican Party
 Brian Mast,BrianMastFL,2015-04-24T00:00:00Z,3170031728,male,United States of America,1980-07-10T00:00:00Z,40.0,repbrianmast,Republican Party
-Brian Mast,BrianMastFL,2016-12-28T00:00:00Z,814103950404239360,male,United States of America,1980-07-10T00:00:00Z,40.0,repbrianmast,Republican Party
 Brian P. Kavanagh,briankavanaghny,2012-01-22T00:00:00Z,471454646,male,United States of America,1967-01-18T00:00:00Z,53.0,,Democratic Party
 Brian P. Stack,mayorstack,2015-02-25T00:00:00Z,3062158491,male,United States of America,1966-05-16T00:00:00Z,54.0,,Democratic Party
 Brian Sandoval,BrianSandoval,2019-02-09T00:00:00Z,1094296143897550856,male,United States of America,1963-08-05T00:00:00Z,57.0,,Republican Party
@@ -335,6 +338,7 @@ Brian Schatz,SenBrianSchatz,2013-03-12T00:00:00Z,1262099252,male,United States o
 Brian Schatz,brianschatz,2013-03-12T00:00:00Z,1262099252,male,United States of America,1972-10-20T00:00:00Z,48.0,,Democratic Party
 Brian Sims,BrianSimsPA,2011-09-07T00:00:00Z,369613362,male,United States of America,1978-09-16T00:00:00Z,42.0,briansimspa,Democratic Party
 Brianne Nadeau,brianneknadeau,2009-07-13T00:00:00Z,56490073,female,United States of America,1980-01-01T00:00:00Z,40.0,,Democratic Party
+Bruce Ayers,BruceJAyers,,,male,United States of America,1962-04-17T00:00:00Z,58.0,,Democratic Party
 Bruce Hyer,brucehyer,2010-01-10T00:00:00Z,103772503,male,United States of America,1946-08-06T00:00:00Z,74.0,,Green Party of Canada
 Bruce Hyer,brucehyer,2010-01-10T00:00:00Z,103772503,male,United States of America,1946-08-06T00:00:00Z,74.0,,independent politician
 Bruce Hyer,brucehyer,2010-01-10T00:00:00Z,103772503,male,United States of America,1946-08-06T00:00:00Z,74.0,,New Democratic Party
@@ -352,6 +356,8 @@ Buddy Fowler,DelBFowler,2017-04-06T00:00:00Z,849992262004219904,male,United Stat
 Burgess Owens,BurgessOwens,,,male,United States of America,1951-08-02T00:00:00Z,69.0,burgessowens,Republican Party
 Byron Brown,MayorByronBrown,2010-07-23T00:00:00Z,170011008,male,United States of America,1958-09-24T00:00:00Z,62.0,mayorbyronbrown716,Democratic Party
 Cal Cunningham,CalforNC,2009-11-24T00:00:00Z,92397793,male,United States of America,1973-08-06T00:00:00Z,47.0,calfornc,Democratic Party
+Cam Gordon,CameronAGordon,,,male,United States of America,1955-01-01T00:00:00Z,65.0,,Green Party of Minnesota
+Cam Gordon,CameronAGordon,,,male,United States of America,1955-01-01T00:00:00Z,65.0,,Greens/Green Party USA
 Campbell Cavasso,camcavasso,2010-05-07T00:00:00Z,141036249,male,United States of America,1950-10-14T00:00:00Z,70.0,,Republican Party
 Candice Keller,votecandice16,2019-08-05T00:00:00Z,1158444132005765121,female,United States of America,1952-01-01T00:00:00Z,68.0,votecandicekeller,Republican Party
 Candice Miller,CandiceMiller,2008-06-30T00:00:00Z,15281676,female,United States of America,1954-05-07T00:00:00Z,66.0,repcandicemiller,Republican Party
@@ -370,7 +376,6 @@ Carol Miller,RepCarolMiller,2019-01-04T00:00:00Z,1081318716573470720,female,Unit
 Carol Miller,CarolMillerWV,2019-01-04T00:00:00Z,1081318716573470720,female,United States of America,1950-11-04T00:00:00Z,70.0,,Republican Party
 Carol Moseley Braun,AmbCMBraun,2020-08-17T00:00:00Z,1295214168681992192,female,United States of America,1947-08-16T00:00:00Z,73.0,,Democratic Party
 Carol Shea-Porter,RepSheaPorter,2010-03-25T00:00:00Z,126171100,female,United States of America,1952-12-02T00:00:00Z,67.0,,Democratic Party
-Caroline Glick,CarolineGlick,2011-08-22T00:00:00Z,360086219,female,United States of America,1969-12-01T00:00:00Z,50.0,,New Right
 Caroline Kennedy,CarolineKennedy,2017-01-17T00:00:00Z,821553841992769536,female,United States of America,1957-11-27T00:00:00Z,62.0,,Democratic Party
 Carolyn Dykema,CarolynDykema,,,female,United States of America,1967-12-26T00:00:00Z,52.0,,Democratic Party
 Carolyn Goodman,mayoroflasvegas,2014-03-17T00:00:00Z,2394599778,female,United States of America,1938-03-25T00:00:00Z,82.0,mayoroflasvegas,Democratic Party
@@ -403,7 +408,7 @@ Charlie Dent,RepCharlieDent,2011-01-24T00:00:00Z,242376736,male,United States of
 Charlie Geren,charliegeren,2011-08-17T00:00:00Z,356903515,male,United States of America,1949-10-22T00:00:00Z,71.0,,Republican Party
 Charniele Herring,C_Herring,2009-04-07T00:00:00Z,29450425,female,Dominican Republic,1969-09-25T00:00:00Z,51.0,,Democratic Party
 Chellie Pingree,ChelliePingree,2008-06-02T00:00:00Z,14984637,female,United States of America,1955-04-02T00:00:00Z,65.0,,Democratic Party
-Cheri Bustos,RepCheri,2013-01-15T00:00:00Z,1092979962,female,United States of America,1961-10-17T00:00:00Z,59.0,,Democratic Party
+Cheri Bustos,RepCheri,2013-01-15T00:00:00Z,1092979962,female,United States of America,1961-10-17T00:00:00Z,59.0,cheribustos,Democratic Party
 Chip Roy,RepChipRoy,2019-01-08T00:00:00Z,1082790600292925440,male,United States of America,1972-08-07T00:00:00Z,48.0,chiproytx,Republican Party
 Chris A. Brown,ChrisBrownNJ,2010-12-01T00:00:00Z,221932626,male,United States of America,1964-08-03T00:00:00Z,56.0,,Republican Party
 Chris Christie,chrischristie,2013-04-12T00:00:00Z,1347285918,male,United States of America,1962-09-06T00:00:00Z,58.0,chrischristie,Republican Party
@@ -442,6 +447,7 @@ Chris Widener,ChrisWidenerOH,2010-02-21T00:00:00Z,116282843,male,United States o
 Chrissy Houlahan,RepHoulahan,2018-10-18T00:00:00Z,1052896620797460481,female,United States of America,1967-06-05T00:00:00Z,53.0,,Democratic Party
 Christian McDaniel,kychrismcdaniel,,,male,United States of America,1977-07-19T00:00:00Z,43.0,,Republican Party
 Christina Hagan,RepHagan,2011-12-07T00:00:00Z,431049342,female,United States of America,1988-12-11T00:00:00Z,31.0,,Republican Party
+Christine Hallquist,christineforvt,,,transgender female,United States of America,1956-04-11T00:00:00Z,64.0,christineforvermont,Democratic Party
 Christine O'Donnell,ChristineOD,2009-05-17T00:00:00Z,40745568,female,United States of America,1969-08-27T00:00:00Z,51.0,,Republican Party
 Christine Quinn,chriscquinn,2013-12-31T00:00:00Z,2270660737,female,United States of America,1966-03-25T00:00:00Z,54.0,,Democratic Party
 Christine Quinn,chriscquinn,2013-12-31T00:00:00Z,2270660737,female,United States of America,1966-07-25T00:00:00Z,54.0,,Democratic Party
@@ -473,10 +479,10 @@ Cindy Axne,RepCindyAxne,2017-05-24T00:00:00Z,867495243482058755,female,United St
 Cindy Axne,Axne4Congress,2017-05-24T00:00:00Z,867495243482058755,female,United States of America,1965-04-20T00:00:00Z,55.0,repcindyaxne,Democratic Party
 Cindy Hyde-Smith,SenHydeSmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Democratic Party
 Cindy Hyde-Smith,SenHydeSmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Republican Party
-Cindy Hyde-Smith,cindyhydesmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Democratic Party
-Cindy Hyde-Smith,cindyhydesmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Republican Party
 Cindy Hyde-Smith,SenHydeSmith,2018-04-09T00:00:00Z,983348251972816896,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Democratic Party
 Cindy Hyde-Smith,SenHydeSmith,2018-04-09T00:00:00Z,983348251972816896,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Republican Party
+Cindy Hyde-Smith,cindyhydesmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Democratic Party
+Cindy Hyde-Smith,cindyhydesmith,2011-03-07T00:00:00Z,262192574,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Republican Party
 Cindy Hyde-Smith,cindyhydesmith,2018-04-09T00:00:00Z,983348251972816896,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Democratic Party
 Cindy Hyde-Smith,cindyhydesmith,2018-04-09T00:00:00Z,983348251972816896,female,United States of America,1959-05-10T00:00:00Z,61.0,sencindyhydesmith,Republican Party
 Cindy McCain,cindymccain,2009-07-29T00:00:00Z,61263431,female,United States of America,1954-05-20T00:00:00Z,66.0,cindymccain,Republican Party
@@ -505,12 +511,12 @@ Cori Bush,CoriBush,,,female,United States of America,1976-07-21T00:00:00Z,44.0,c
 Corrine Brown,RepCorrineBrown,,t2086266926,female,United States of America,1946-11-11T00:00:00Z,74.0,,Democratic Party
 Cory Booker,CoryBooker,2008-08-11T00:00:00Z,15808765,male,United States of America,1969-04-27T00:00:00Z,51.0,corybooker,Democratic Party
 Cory Gardner,corygardner,2009-02-14T00:00:00Z,20879626,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Republican Party
-Cory Gardner,corygardner,2009-02-14T00:00:00Z,20879626,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Cory Gardner,SenCoryGardner,2009-02-14T00:00:00Z,20879626,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Republican Party
+Cory Gardner,corygardner,2009-02-14T00:00:00Z,20879626,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Cory Gardner,SenCoryGardner,2009-02-14T00:00:00Z,20879626,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Cory Gardner,corygardner,2011-01-07T00:00:00Z,235217558,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Republican Party
-Cory Gardner,corygardner,2011-01-07T00:00:00Z,235217558,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Cory Gardner,SenCoryGardner,2011-01-07T00:00:00Z,235217558,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Republican Party
+Cory Gardner,corygardner,2011-01-07T00:00:00Z,235217558,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Cory Gardner,SenCoryGardner,2011-01-07T00:00:00Z,235217558,male,United States of America,1974-08-22T00:00:00Z,46.0,sencorygardner,Colorado Republican Party
 Craig Fitzhugh,CraigFitzhugh,2009-02-10T00:00:00Z,20513337,male,United States of America,1950-03-22T00:00:00Z,70.0,,Democratic Party
 Cresent Hardy,CresentHardy,,t2071008788,male,United States of America,1957-06-23T00:00:00Z,63.0,,Republican Party
@@ -558,10 +564,13 @@ Darrell Issa,DarrellIssa,2009-03-02T00:00:00Z,22509548,male,United States of Ame
 Darrell Steinberg,mayor_steinberg,2015-09-02T00:00:00Z,3526565908,male,United States of America,1959-10-15T00:00:00Z,61.0,protemsteinberg,Democratic Party
 Darren Jackson,JacksonforNC,2010-02-14T00:00:00Z,114338937,male,United States of America,1970-06-29T00:00:00Z,50.0,,Democratic Party
 Darren Soto,RepDarrenSoto,2017-01-10T00:00:00Z,818713465653051392,male,United States of America,1978-02-25T00:00:00Z,42.0,repdarrensoto,Democratic Party
+Daryl Metcalfe,RepMetcalfe,,,male,United States of America,1962-11-09T00:00:00Z,58.0,,Republican Party
 Dave Brat,RepDaveBrat,,,male,United States of America,1964-07-27T00:00:00Z,56.0,,Republican Party
 Dave Camp,RepDaveCamp,2020-03-24T00:00:00Z,1242692525862703105,male,United States of America,1953-07-09T00:00:00Z,67.0,,Republican Party
 Dave LaRock,LaRock4Delegate,2013-02-26T00:00:00Z,1222179409,male,United States of America,1956-05-30T00:00:00Z,64.0,,Republican Party
 Dave Reichert,DaveReichert,2012-05-15T00:00:00Z,t2082926990,male,United States of America,1950-08-29T00:00:00Z,70.0,repdavereichert,Republican Party
+Dave Senjem,dsenjem,,,male,United States of America,1942-12-20T00:00:00Z,77.0,,Republican Party
+Dave Senjem,dsenjem,,,male,United States of America,1942-12-20T00:00:00Z,77.0,,Republican Party of Minnesota
 David Axelrod,davidaxelrod,2011-01-29T00:00:00Z,244655353,male,United States of America,1955-02-22T00:00:00Z,65.0,,Democratic Party
 David Axelrod,davidaxelrod,2011-01-29T00:00:00Z,244655353,male,United States of America,1955-02-22T00:00:00Z,65.0,,Democratic Party
 David Baria,dbaria,2009-04-16T00:00:00Z,32125811,male,United States of America,1962-12-04T00:00:00Z,57.0,,Democratic Party
@@ -572,6 +581,7 @@ David Casas,votedavidcasas,,t2066523673,male,Spain,1971-09-18T00:00:00Z,49.0,,Re
 David Chiu,davidchiu,2007-11-19T00:00:00Z,10378382,male,United States of America,1970-04-02T00:00:00Z,50.0,davidchiu.sf,Democratic Party
 David Chiu,davidchiu,2007-11-19T00:00:00Z,10378382,male,United States of America,1970-04-02T00:00:00Z,50.0,davidchiu.sf,California Democratic Party
 David Cicilline,RepCicilline,2012-01-12T00:00:00Z,462143773,male,United States of America,1961-07-15T00:00:00Z,59.0,,Democratic Party
+David Coulter,davidwcoulter,,,male,United States of America,,,david.w.coulter5,Democratic Party
 David Duke,drdavidduke,2009-09-09T00:00:00Z,72931184,male,United States of America,1950-07-01T00:00:00Z,70.0,,Republican Party
 David Duke,drdavidduke,2009-09-09T00:00:00Z,72931184,male,United States of America,1950-07-01T00:00:00Z,70.0,,Democratic Party
 David Duke,drdavidduke,2009-09-09T00:00:00Z,72931184,male,United States of America,1950-07-01T00:00:00Z,70.0,,Reform Party of the United States of America
@@ -614,6 +624,7 @@ David Vitter,DavidVitter,2009-02-04T00:00:00Z,20092295,male,United States of Ame
 David Vitter,senatorvitter,2009-02-04T00:00:00Z,20092295,male,United States of America,1961-05-03T00:00:00Z,59.0,,Republican Party
 David Yancey,yancey4delegate,2017-08-07T00:00:00Z,894689892134944768,male,United States of America,1972-04-06T00:00:00Z,48.0,,Republican Party
 David Young,RepDavidYoung,2011-06-09T00:00:00Z,314205957,male,United States of America,1968-05-11T00:00:00Z,52.0,repdavidyoung,Republican Party
+Dawn Keefer,dwkeefer,,,female,United States of America,1972-10-06T00:00:00Z,48.0,,Republican Party
 Dawn Zimmer,dawnzimmernj,2009-08-02T00:00:00Z,62383743,female,United States of America,1968-04-16T00:00:00Z,52.0,,Democratic Party
 Daylin Leach,daylinleach,2009-02-10T00:00:00Z,20540348,male,United States of America,1961-06-23T00:00:00Z,59.0,,Democratic Party
 Dean Heller,sendeanheller,2011-03-14T00:00:00Z,266133081,male,United States of America,1960-05-10T00:00:00Z,60.0,,Republican Party
@@ -628,7 +639,7 @@ Deb Haaland,RepDebHaaland,2019-01-03T00:00:00Z,1080695666760929280,female,United
 Deb Haaland,Deb4CongressNM,2019-01-03T00:00:00Z,1080695666760929280,female,United States of America,1960-12-02T00:00:00Z,59.0,,Democratic Party
 Deb Haaland,RepDebHaaland,2011-04-23T00:00:00Z,286476728,female,United States of America,1960-12-02T00:00:00Z,59.0,,Democratic Party
 Deb Haaland,Deb4CongressNM,2011-04-23T00:00:00Z,286476728,female,United States of America,1960-12-02T00:00:00Z,59.0,,Democratic Party
-Debbie Lesko,RepDLesko,2018-05-14T00:00:00Z,996094929733652481,female,United States of America,1958-11-14T00:00:00Z,62.0,,Republican Party
+Debbie Lesko,RepDLesko,2018-05-14T00:00:00Z,996094929733652481,female,United States of America,1958-11-14T00:00:00Z,62.0,replesko,Republican Party
 Debbie Mucarsel-Powell,DebbieforFL,2016-07-04T00:00:00Z,750046943905058816,female,Ecuador,1971-01-18T00:00:00Z,49.0,,Democratic Party
 Debbie Stabenow,SenStabenow,2009-09-22T00:00:00Z,76456274,female,United States of America,1950-04-29T00:00:00Z,70.0,,Democratic Party
 Debbie Wasserman Schultz,DWStweets,2010-02-20T00:00:00Z,115979444,female,United States of America,1966-09-27T00:00:00Z,54.0,repdwstweets,Democratic Party
@@ -640,6 +651,7 @@ Denis McDonough,Denis44,2015-03-17T00:00:00Z,3093573484,male,United States of Am
 Denise Driehaus,DeniseDriehaus,2010-06-09T00:00:00Z,153857050,female,United States of America,1967-06-16T00:00:00Z,53.0,,Democratic Party
 Denise Harper Angel,kyharperangel,,,female,United States of America,1953-11-24T00:00:00Z,66.0,,Democratic Party
 Denise Merrill,SOTSMerrill,2011-01-23T00:00:00Z,242146618,female,United States of America,1948-10-08T00:00:00Z,72.0,,Democratic Party
+Denise Provost,DeniseProvost1,,,female,United States of America,1951-03-09T00:00:00Z,69.0,repprovost,Democratic Party
 Dennis A. Ross,AmbDennisRoss,2015-09-03T00:00:00Z,3537275536,male,United States of America,1959-10-18T00:00:00Z,61.0,,Republican Party
 Dennis A. Ross,AmbDennisRoss,,t2085641865,male,United States of America,1959-10-18T00:00:00Z,61.0,,Republican Party
 Dennis Bonnen,RepDennisBonnen,,,male,United States of America,1972-03-03T00:00:00Z,48.0,speakerbonnen,Republican Party
@@ -684,10 +696,10 @@ Donna Brazile,donnabrazile,2009-07-28T00:00:00Z,60919240,female,United States of
 Donna Campbell,DonnaCampbellTX,2009-08-26T00:00:00Z,68920859,female,United States of America,1954-09-17T00:00:00Z,66.0,,Republican Party
 Donna Edwards,RepDonnaEdwards,2009-10-15T00:00:00Z,82649553,female,United States of America,1958-06-28T00:00:00Z,62.0,,Democratic Party
 Donna Howard,DonnaHowardTX,2010-02-09T00:00:00Z,112899475,female,United States of America,1951-10-25T00:00:00Z,69.0,,Democratic Party
-Donna Shalala,DonnaShalala,2018-11-08T00:00:00Z,1060584809095925762,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
-Donna Shalala,DonnaShalala,2016-05-31T00:00:00Z,737719829579345920,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
 Donna Shalala,RepShalala,2018-11-08T00:00:00Z,1060584809095925762,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
+Donna Shalala,DonnaShalala,2018-11-08T00:00:00Z,1060584809095925762,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
 Donna Shalala,RepShalala,2016-05-31T00:00:00Z,737719829579345920,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
+Donna Shalala,DonnaShalala,2016-05-31T00:00:00Z,737719829579345920,female,United States of America,1941-02-14T00:00:00Z,79.0,donna_shalala,Democratic Party
 Donovan Dela Cruz,DonovanDelaCruz,2008-08-21T00:00:00Z,15928053,male,United States of America,1973-07-06T00:00:00Z,47.0,,Democratic Party
 Doris Matsui,DorisMatsui,2009-05-06T00:00:00Z,38254095,female,United States of America,1944-09-25T00:00:00Z,76.0,repdorismatsui,Democratic Party
 Doris Matsui,DorisMatsui,2009-05-06T00:00:00Z,38254095,female,United States of America,1944-09-25T00:00:00Z,76.0,repdorismatsui,Democratic Party
@@ -714,10 +726,11 @@ Dusty Johnson,DustyJohnson,2018-12-17T00:00:00Z,1074782372594413569,male,United 
 Dutch Ruppersberger,Call_Me_Dutch,2011-05-26T00:00:00Z,305620929,male,United States of America,1946-01-31T00:00:00Z,74.0,dutchruppersberger,Democratic Party
 Dwight E. Evans,RepDwightEvans,2009-11-17T00:00:00Z,90639372,male,United States of America,1954-05-16T00:00:00Z,66.0,repdwightevans,Democratic Party
 Earl Blumenauer,repblumenauer,2008-08-23T00:00:00Z,15954997,male,United States of America,1948-08-16T00:00:00Z,72.0,,Democratic Party
+Ed Asner,TheOnlyEdAsner,2011-01-25T00:00:00Z,242883110,male,United States of America,1929-11-15T00:00:00Z,91.0,,Democratic Party
 Ed Case,RepEdCase,2009-02-24T00:00:00Z,21737536,male,United States of America,1952-09-27T00:00:00Z,68.0,,Democratic Party
+Ed Case,EdCaseHawaii,2009-02-24T00:00:00Z,21737536,male,United States of America,1952-09-27T00:00:00Z,68.0,,Democratic Party
 Ed Case,RepEdCase,2019-01-05T00:00:00Z,1081350574589833221,male,United States of America,1952-09-27T00:00:00Z,68.0,,Democratic Party
 Ed Case,EdCaseHawaii,2019-01-05T00:00:00Z,1081350574589833221,male,United States of America,1952-09-27T00:00:00Z,68.0,,Democratic Party
-Ed Case,EdCaseHawaii,2009-02-24T00:00:00Z,21737536,male,United States of America,1952-09-27T00:00:00Z,68.0,,Democratic Party
 Ed Emmett,EdEmmett,2011-01-29T00:00:00Z,244783424,male,United States of America,1949-08-14T00:00:00Z,71.0,,Republican Party
 Ed Gillespie,edwgillespie,2010-04-23T00:00:00Z,136250134,male,United States of America,1961-08-15T00:00:00Z,59.0,,Republican Party
 Ed Koch,mayoredkoch,2010-05-13T00:00:00Z,143524116,male,United States of America,1924-12-12T00:00:00Z,95.0,,Democratic Party
@@ -730,7 +743,6 @@ Ed Royce,RepEdRoyce,2011-02-03T00:00:00Z,246769138,male,United States of America
 Ed Whitfield,RepEdWhitfield,2011-01-06T00:00:00Z,234906311,male,United States of America,1943-05-25T00:00:00Z,77.0,,Republican Party
 Eddie Bernice Johnson,RepEBJ,2010-07-19T00:00:00Z,168502762,female,United States of America,1935-12-03T00:00:00Z,84.0,repebj,Democratic Party
 Eddie Rodriguez,eddiefortexas,2009-02-20T00:00:00Z,21421710,male,United States of America,1971-07-01T00:00:00Z,49.0,,Democratic Party
-Edward Asner,TheOnlyEdAsner,2011-01-25T00:00:00Z,242883110,male,United States of America,1929-11-15T00:00:00Z,91.0,,Democratic Party
 Edward F. Coppinger,edcoppinger,,,male,United States of America,,,,Democratic Party
 Edward F. Cox,chairmanedcox,2015-07-07T00:00:00Z,3364353053,male,United States of America,1946-10-02T00:00:00Z,74.0,,Republican Party
 Edward Lee Rispone,EddieRispone,2018-10-18T00:00:00Z,1053004873069981696,male,United States of America,1949-01-21T00:00:00Z,71.0,eddierispone,Republican Party
@@ -746,16 +758,16 @@ Eleni Tsakopoulos Kounalakis,EleniForCA,,,female,United States of America,1966-0
 Elijah Cummings,RepCummings,2012-08-28T00:00:00Z,787373558,male,United States of America,1951-01-18T00:00:00Z,69.0,,Democratic Party
 Eliot Engel,RepEliotEngel,2010-07-07T00:00:00Z,164007407,male,United States of America,1947-02-18T00:00:00Z,73.0,repeliotengel,Democratic Party
 Elise Stefanik,RepStefanik,2015-01-05T00:00:00Z,2962813893,female,United States of America,1984-07-02T00:00:00Z,36.0,,Republican Party
-Elise Stefanik,elisestefanik,2015-01-05T00:00:00Z,2962813893,female,United States of America,1984-07-02T00:00:00Z,36.0,,Republican Party
 Elise Stefanik,RepStefanik,2010-01-29T00:00:00Z,109579534,female,United States of America,1984-07-02T00:00:00Z,36.0,,Republican Party
 Elise Stefanik,elisestefanik,2010-01-29T00:00:00Z,109579534,female,United States of America,1984-07-02T00:00:00Z,36.0,,Republican Party
+Elise Stefanik,elisestefanik,2015-01-05T00:00:00Z,2962813893,female,United States of America,1984-07-02T00:00:00Z,36.0,,Republican Party
 Elissa Silverman,CM_Silverman,2015-03-31T00:00:00Z,3130837337,female,United States of America,1973-01-01T00:00:00Z,47.0,,independent politician
 Elissa Slotkin,RepSlotkin,2018-12-27T00:00:00Z,1078401427347857408,female,United States of America,1976-07-10T00:00:00Z,44.0,repslotkin,Democratic Party
 Elissa Slotkin,ElissaSlotkin,2018-12-27T00:00:00Z,1078401427347857408,female,United States of America,1976-07-10T00:00:00Z,44.0,repslotkin,Democratic Party
 Elissa Slotkin,RepSlotkin,2017-05-05T00:00:00Z,860547911268139008,female,United States of America,1976-07-10T00:00:00Z,44.0,repslotkin,Democratic Party
 Elissa Slotkin,ElissaSlotkin,2017-05-05T00:00:00Z,860547911268139008,female,United States of America,1976-07-10T00:00:00Z,44.0,repslotkin,Democratic Party
-Elizabeth Cheney,RepLizCheney,2017-01-04T00:00:00Z,816719802328715264,female,United States of America,1966-07-28T00:00:00Z,54.0,,Republican Party
-Elizabeth Cheney,RepLizCheney,2017-01-04T00:00:00Z,816719802328715264,female,United States of America,1966-07-28T00:00:00Z,54.0,,Wyoming Republican Party
+Elizabeth Cheney,RepLizCheney,2017-01-04T00:00:00Z,816719802328715264,female,United States of America,1966-07-28T00:00:00Z,54.0,replizcheney,Republican Party
+Elizabeth Cheney,RepLizCheney,2017-01-04T00:00:00Z,816719802328715264,female,United States of America,1966-07-28T00:00:00Z,54.0,replizcheney,Wyoming Republican Party
 Elizabeth Dole,elizabethdole,,,female,United States of America,1936-07-29T00:00:00Z,84.0,,Republican Party
 Elizabeth Dole,elizabethdole,,,female,United States of America,1936-07-29T00:00:00Z,84.0,,Democratic Party
 Elizabeth Esty,RepEsty,,t2084557643,female,United States of America,1959-08-25T00:00:00Z,61.0,repesty,Democratic Party
@@ -775,7 +787,6 @@ Elly Schlein,ellyesse,2011-06-23T00:00:00Z,322933929,female,Switzerland,1985-05-
 Emanuel Cleaver,repcleaver,2010-07-06T00:00:00Z,163570705,male,United States of America,1944-10-26T00:00:00Z,76.0,repcleaver,Democratic Party
 Emily Larson,LarsonForDuluth,2011-07-22T00:00:00Z,340395994,female,United States of America,1975-01-01T00:00:00Z,45.0,,Minnesota Democratic–Farmer–Labor Party
 Emily Virgin,EmilyVirginOK,2010-04-20T00:00:00Z,135193670,female,United States of America,1986-10-01T00:00:00Z,34.0,,Democratic Party
-Enrique Peñalosa,EnriquePenalosa,2010-01-26T00:00:00Z,108717093,male,United States of America,1954-09-30T00:00:00Z,66.0,enriquepenalosal,Radical Change
 Enrique Peñalosa,EnriquePenalosa,2010-01-26T00:00:00Z,108717093,male,United States of America,1954-09-30T00:00:00Z,66.0,enriquepenalosal,Colombian Liberal Party
 Eric Brakey,SenatorBrakey,2012-11-04T00:00:00Z,926810064,male,United States of America,1988-08-08T00:00:00Z,32.0,,Republican Party
 Eric Burlison,ericburlison,2008-12-09T00:00:00Z,17993908,male,United States of America,1976-10-02T00:00:00Z,44.0,,Republican Party
@@ -806,13 +817,13 @@ Evan Bayh,EvanBayh,2009-10-05T00:00:00Z,80111837,male,United States of America,1
 Evan Bayh,SenEvanBayh,2016-07-11T00:00:00Z,752500729202536448,male,United States of America,1955-12-26T00:00:00Z,64.0,,Democratic Party
 Evan Bayh,EvanBayh,2016-07-11T00:00:00Z,752500729202536448,male,United States of America,1955-12-26T00:00:00Z,64.0,,Democratic Party
 Evan Glass,EvanMGlass,2009-07-08T00:00:00Z,55018701,male,United States of America,1977-01-01T00:00:00Z,43.0,evanmglass,Democratic Party
-Evan Jenkins,RepEvanJenkins,,,male,United States of America,1960-09-12T00:00:00Z,60.0,repevanjenkins,Republican Party
 Evan Jenkins,RepEvanJenkins,,,male,United States of America,1960-09-12T00:00:00Z,60.0,repevanjenkins,Democratic Party
+Evan Jenkins,RepEvanJenkins,,,male,United States of America,1960-09-12T00:00:00Z,60.0,repevanjenkins,Republican Party
 Evan Low,Evan_Low,2011-02-17T00:00:00Z,253769656,male,United States of America,1983-06-05T00:00:00Z,37.0,,Democratic Party
 Evan McMullin,EvanMcMullin,2012-12-31T00:00:00Z,1051396218,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,independent politician
 Evan McMullin,EvanMcMullin,2012-12-31T00:00:00Z,1051396218,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,Republican Party
-Evan McMullin,EvanMcMullin,,t2066527979,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,independent politician
-Evan McMullin,EvanMcMullin,,t2066527979,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,Republican Party
+Evan McMullin,EvanMcMullin,,t2112223337,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,independent politician
+Evan McMullin,EvanMcMullin,,t2112223337,male,United States of America,1976-04-02T00:00:00Z,44.0,evan.mcmullin,Republican Party
 Evelyn Sanguinetti,Evelynetti,,,female,United States of America,1970-11-12T00:00:00Z,50.0,,Republican Party
 Filemon Vela,RepFilemonVela,2013-01-12T00:00:00Z,1083448909,male,United States of America,1963-02-13T00:00:00Z,57.0,repfilemonvela,Democratic Party
 Francis Rooney,RepRooney,2017-01-02T00:00:00Z,816111677917851649,male,United States of America,1953-12-04T00:00:00Z,66.0,repfrancisrooney,Republican Party
@@ -846,8 +857,8 @@ Gary King,GaryKingforGov,2013-05-28T00:00:00Z,1465675716,male,United States of A
 Gary Palmer,USRepGaryPalmer,2014-11-04T00:00:00Z,2861616083,male,United States of America,1954-05-14T00:00:00Z,66.0,usrepgarypalmer,Republican Party
 Gary Peters,SenGaryPeters,2011-01-10T00:00:00Z,236511574,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
 Gary Peters,peters4michigan,2011-01-10T00:00:00Z,236511574,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
-Gary Peters,SenGaryPeters,,t2102783533,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
-Gary Peters,peters4michigan,,t2102783533,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
+Gary Peters,SenGaryPeters,,t2110428951,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
+Gary Peters,peters4michigan,,t2110428951,male,United States of America,1958-12-01T00:00:00Z,61.0,sengarypeters,Democratic Party
 Gavin Buckley,gavin4annapolis,2017-10-01T00:00:00Z,914976535928541184,male,South Africa,1963-02-08T00:00:00Z,57.0,gavin4annapolis,Democratic Party
 Gavin Newsom,GavinNewsom,2007-12-19T00:00:00Z,11347122,male,United States of America,1967-10-10T00:00:00Z,53.0,gavinnewsom,Democratic Party
 Gene Green,RepGeneGreen,,,male,United States of America,1947-10-17T00:00:00Z,73.0,,Democratic Party
@@ -860,6 +871,7 @@ George P. Bush,GeorgePBush,2009-10-05T00:00:00Z,80136311,male,United States of A
 George Pataki,governorpataki,2014-10-19T00:00:00Z,2865560724,male,United States of America,1945-06-24T00:00:00Z,75.0,governorpataki,Republican Party
 George Stephanopoulos,GStephanopoulos,2008-10-30T00:00:00Z,17074440,male,United States of America,1961-02-10T00:00:00Z,59.0,gstephanopoulos,Democratic Party
 Georgios Kaminis,KaminisG,2010-09-15T00:00:00Z,191033632,male,United States of America,1954-07-15T00:00:00Z,66.0,,Panhellenic Socialist Movement
+Gerald Neal,geraldneal33,,,male,United States of America,1945-09-22T00:00:00Z,75.0,,Democratic Party
 Gerry Connolly,GerryConnolly,2009-09-29T00:00:00Z,78445977,male,United States of America,1950-03-30T00:00:00Z,70.0,,Democratic Party
 Gil Cedillo,gilcedillo,2009-02-14T00:00:00Z,20824772,male,United States of America,1954-03-25T00:00:00Z,66.0,cmgilcedillo,Democratic Party
 Gil Cisneros,GilCisnerosCA,2019-01-03T00:00:00Z,1080986167003230208,male,United States of America,1971-02-12T00:00:00Z,49.0,,Republican Party
@@ -868,8 +880,8 @@ Gil Cisneros,GilCisnerosCA,2019-01-03T00:00:00Z,1080986167003230208,male,United 
 Gil Cisneros,RepGilCisneros,2019-01-03T00:00:00Z,1080986167003230208,male,United States of America,1971-02-12T00:00:00Z,49.0,,Democratic Party
 Gil Cisneros,GilCisnerosCA,2017-06-19T00:00:00Z,876894308309147650,male,United States of America,1971-02-12T00:00:00Z,49.0,,Republican Party
 Gil Cisneros,RepGilCisneros,2017-06-19T00:00:00Z,876894308309147650,male,United States of America,1971-02-12T00:00:00Z,49.0,,Republican Party
-Gil Cisneros,RepGilCisneros,2017-06-19T00:00:00Z,876894308309147650,male,United States of America,1971-02-12T00:00:00Z,49.0,,Democratic Party
 Gil Cisneros,GilCisnerosCA,2017-06-19T00:00:00Z,876894308309147650,male,United States of America,1971-02-12T00:00:00Z,49.0,,Democratic Party
+Gil Cisneros,RepGilCisneros,2017-06-19T00:00:00Z,876894308309147650,male,United States of America,1971-02-12T00:00:00Z,49.0,,Democratic Party
 Gilberto Hinojosa,HinojosaTX,2012-06-05T00:00:00Z,600408823,male,United States of America,1952-07-08T00:00:00Z,68.0,,Democratic Party
 Gina McCarthy,GinaEPA,2013-06-19T00:00:00Z,1530850933,female,United States of America,1954-05-03T00:00:00Z,66.0,,Democratic Party
 Gina Ortiz Jones,ginaortizjones,2017-03-27T00:00:00Z,846412137547403264,female,United States of America,1981-02-01T00:00:00Z,39.0,ginaortizjonestx,Democratic Party
@@ -961,9 +973,9 @@ Ilhan Omar,IlhanMN,2019-01-07T00:00:00Z,1082334352711790593,female,Somalia,1981-
 Ilhan Omar,IlhanMN,2019-01-07T00:00:00Z,1082334352711790593,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Democratic Party
 Ilhan Omar,IlhanMN,2012-08-27T00:00:00Z,783792992,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Minnesota Democratic–Farmer–Labor Party
 Ilhan Omar,IlhanMN,2012-08-27T00:00:00Z,783792992,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Democratic Party
-Ilhan Omar,Ilhan,2012-08-27T00:00:00Z,783792992,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Minnesota Democratic–Farmer–Labor Party
 Ilhan Omar,Ilhan,2019-01-07T00:00:00Z,1082334352711790593,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Minnesota Democratic–Farmer–Labor Party
 Ilhan Omar,Ilhan,2019-01-07T00:00:00Z,1082334352711790593,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Democratic Party
+Ilhan Omar,Ilhan,2012-08-27T00:00:00Z,783792992,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Minnesota Democratic–Farmer–Labor Party
 Ilhan Omar,Ilhan,2012-08-27T00:00:00Z,783792992,female,Somalia,1981-10-04T00:00:00Z,39.0,ilhanmn,Democratic Party
 Ina Minjarez,vote4ina,2015-03-06T00:00:00Z,3065062453,female,United States of America,1975-03-27T00:00:00Z,45.0,,Democratic Party
 Isiah Leggett,county_exec,2010-05-01T00:00:00Z,139107139,male,United States of America,1944-07-25T00:00:00Z,76.0,,Democratic Party
@@ -1044,10 +1056,10 @@ Jean Quan,jeanquan,2010-02-18T00:00:00Z,115334561,female,United States of Americ
 Jeanette Nuñez,LtGovNunez,,,female,United States of America,1972-06-06T00:00:00Z,48.0,jeanettenunez,Republican Party
 Jeanne Ives,jeanneives,,,female,United States of America,1965-03-27T00:00:00Z,55.0,,Republican Party
 Jeanne Shaheen,SenatorShaheen,2010-01-28T00:00:00Z,109287731,female,United States of America,1947-01-28T00:00:00Z,73.0,jeanneshaheen,Democratic Party
-Jeb Bush,JebBush,2010-02-10T00:00:00Z,113047940,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
-Jeb Bush,JebBush,,,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
 Jeb Bush,jebbush,2010-02-10T00:00:00Z,113047940,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
 Jeb Bush,jebbush,,,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
+Jeb Bush,JebBush,2010-02-10T00:00:00Z,113047940,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
+Jeb Bush,JebBush,,,male,United States of America,1953-02-11T00:00:00Z,67.0,jebbush,Republican Party
 Jeb Hensarling,RepHensarling,2009-01-02T00:00:00Z,18566912,male,United States of America,1957-05-29T00:00:00Z,63.0,,Republican Party
 Jeff Brandes,JeffreyBrandes,2010-05-26T00:00:00Z,148305299,male,United States of America,1976-02-12T00:00:00Z,44.0,,Republican Party
 Jeff Colyer,DrJeffColyer,2015-11-28T00:00:00Z,4309422388,male,United States of America,1960-06-03T00:00:00Z,60.0,,Republican Party
@@ -1071,14 +1083,15 @@ Jeffrey Chiesa,ChiesaNews,2013-06-27T00:00:00Z,1550836628,male,United States of 
 Jeffrey Roy,jeffroy,,,male,United States of America,1961-09-08T00:00:00Z,59.0,,Democratic Party
 Jeion Ward,JeionWard,2011-10-24T00:00:00Z,397526668,female,United States of America,1954-01-06T00:00:00Z,66.0,,Democratic Party
 Jello Biafra,jello_biafra,2014-01-07T00:00:00Z,2280620984,male,United States of America,1958-06-17T00:00:00Z,62.0,jello_biafra_gsm,Green Party of the United States
+Jenifer Rajkumar,JeniferRajkumar,,,female,United States of America,1982-09-01T00:00:00Z,38.0,,Democratic Party
 Jenna Bush Hager,JennaBushHager,2011-05-25T00:00:00Z,305141546,female,United States of America,1981-11-25T00:00:00Z,38.0,jennabhager,Republican Party
 Jennifer Brunner,JenniferBrunner,2009-02-09T00:00:00Z,20462779,female,United States of America,1957-02-05T00:00:00Z,63.0,,Democratic Party
 Jennifer Granholm,JenGranholm,2008-03-20T00:00:00Z,14185317,female,Canada,1959-02-05T00:00:00Z,61.0,,Democratic Party
 Jennifer Psaki,Psaki44,2013-01-30T00:00:00Z,1135388684,female,United States of America,1978-12-01T00:00:00Z,41.0,,Democratic Party
 Jennifer Wexton,JenniferWexton,2013-11-24T00:00:00Z,2212905492,female,United States of America,1968-05-27T00:00:00Z,52.0,,Democratic Party
 Jenny Durkan,MayorJenny,2017-11-16T00:00:00Z,931187167811985409,female,United States of America,1958-05-19T00:00:00Z,62.0,jennydurkan,Democratic Party
-Jenny Wilson,JennyWilsonUT,2014-02-09T00:00:00Z,2335899655,female,United States of America,1965-11-01T00:00:00Z,55.0,,Democratic Party
 Jenny Wilson,JennyWilsonUT,2014-02-09T00:00:00Z,2335899655,female,United States of America,1965-11-01T00:00:00Z,55.0,,Utah Democratic Party
+Jenny Wilson,JennyWilsonUT,2014-02-09T00:00:00Z,2335899655,female,United States of America,1965-11-01T00:00:00Z,55.0,,Democratic Party
 Jeremy Taylor,jtaylorcongress,,,male,United States of America,1978-04-19T00:00:00Z,42.0,,Republican Party of Iowa
 Jerrold Nadler,RepJerryNadler,2009-05-15T00:00:00Z,40302336,male,United States of America,1947-06-13T00:00:00Z,73.0,,Democratic Party
 Jerry Brown,jerrybrowngov,2009-01-23T00:00:00Z,19418459,male,United States of America,1938-04-07T00:00:00Z,82.0,,Democratic Party
@@ -1101,7 +1114,7 @@ Jim Bridenstine,RepJBridenstine,2011-01-27T00:00:00Z,243418245,male,United State
 Jim Bridenstine,JimBridenstine,2011-01-27T00:00:00Z,243418245,male,United States of America,1975-06-15T00:00:00Z,45.0,repjbridenstine,Republican Party
 Jim Bridenstine,RepJBridenstine,2013-01-15T00:00:00Z,1092757885,male,United States of America,1975-06-15T00:00:00Z,45.0,repjbridenstine,Republican Party
 Jim Bridenstine,JimBridenstine,2013-01-15T00:00:00Z,1092757885,male,United States of America,1975-06-15T00:00:00Z,45.0,repjbridenstine,Republican Party
-Jim Clyburn,Clyburn,,t2086422092,male,United States of America,1940-07-21T00:00:00Z,80.0,,Democratic Party
+Jim Clyburn,Clyburn,,t2112505071,male,United States of America,1940-07-21T00:00:00Z,80.0,,Democratic Party
 Jim Cooper,RepJimCooper,2009-03-02T00:00:00Z,22523087,male,United States of America,1954-06-19T00:00:00Z,66.0,repjimcooper,Democratic Party
 Jim Costa,RepJimCosta,2011-01-31T00:00:00Z,245451804,male,United States of America,1952-04-13T00:00:00Z,68.0,,Democratic Party
 Jim Dabakis,JimDabakis,2011-03-22T00:00:00Z,270462608,male,United States of America,2000-01-01T00:00:00Z,20.0,,Democratic Party
@@ -1112,7 +1125,6 @@ Jim Durkin,jimdurkin82,,,male,United States of America,1961-01-28T00:00:00Z,59.0
 Jim Gilmore,governorgilmore,2015-07-01T00:00:00Z,3352706206,male,United States of America,1949-10-06T00:00:00Z,71.0,,Republican Party
 Jim Hagedorn,RepHagedorn,2019-01-10T00:00:00Z,1083474782602125318,male,United States of America,1962-08-04T00:00:00Z,58.0,,Republican Party
 Jim Himes,JAHimes,2009-04-15T00:00:00Z,31611298,male,Peru,1966-07-05T00:00:00Z,54.0,,Democratic Party
-Jim Jordan,Jim_Jordan,2008-12-16T00:00:00Z,18166778,male,United States of America,1964-02-17T00:00:00Z,56.0,,Republican Party
 Jim Jordan,Jim_Jordan,2008-12-16T00:00:00Z,18166778,male,United States of America,1964-02-17T00:00:00Z,56.0,,Republican Party
 Jim Justice,WVGovernor,,,male,United States of America,1951-04-27T00:00:00Z,69.0,govjustice,Republican Party
 Jim Justice,WVGovernor,,,male,United States of America,1951-04-27T00:00:00Z,69.0,govjustice,Democratic Party
@@ -1143,6 +1155,7 @@ Jo Rae Perkins,PerkinsForUSSen,,,female,United States of America,1956-05-09T00:0
 JoCasta Zamarripa,repjocasta,2009-04-30T00:00:00Z,36726020,female,United States of America,1976-03-08T00:00:00Z,44.0,,Democratic Party
 Joan Carter Conway,conway_joanEHE,2013-02-21T00:00:00Z,1205882858,female,United States of America,1951-04-05T00:00:00Z,69.0,,Democratic Party
 Joaquín Castro,JoaquinCastrotx,2010-12-28T00:00:00Z,231510077,male,United States of America,1974-09-16T00:00:00Z,46.0,joaquincastrotx,Democratic Party
+Jocelyn Benson,JocelynBenson,,,female,United States of America,1977-10-22T00:00:00Z,43.0,jocelynbenson,Democratic Party
 Jodey Arrington,RepArrington,2017-01-03T00:00:00Z,816284664658874368,male,United States of America,1972-03-09T00:00:00Z,48.0,repjodeyarrington,Republican Party
 Jody Hice,congressmanhice,2015-01-12T00:00:00Z,2975091705,male,United States of America,1960-04-22T00:00:00Z,60.0,rep_hice,Republican Party
 Jody Steverson,JodySteverson,2010-01-28T00:00:00Z,109110373,male,United States of America,1968-08-21T00:00:00Z,52.0,,Democratic Party
@@ -1154,16 +1167,18 @@ Joe Biden,JoeBiden,2011-06-28T00:00:00Z,325830217,male,United States of America,
 Joe Biden,JoeBiden,2007-03-11T00:00:00Z,939091,male,United States of America,1942-11-20T00:00:00Z,77.0,vp44,Democratic Party
 Joe Courtney,RepJoeCourtney,2009-10-26T00:00:00Z,85396297,male,United States of America,1953-04-06T00:00:00Z,67.0,repjoecourtney,Democratic Party
 Joe Crowley,JoeCrowleyNY,2010-02-05T00:00:00Z,111635980,male,United States of America,1962-03-16T00:00:00Z,58.0,,Democratic Party
-Joe Cunningham,RepCunningham,2019-01-01T00:00:00Z,1080198683713507335,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
-Joe Cunningham,JoeCunninghamSC,2019-01-01T00:00:00Z,1080198683713507335,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
-Joe Cunningham,JoeCunninghamSC,2017-01-31T00:00:00Z,826589191412862976,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
 Joe Cunningham,RepCunningham,2017-01-31T00:00:00Z,826589191412862976,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
+Joe Cunningham,JoeCunninghamSC,2019-01-01T00:00:00Z,1080198683713507335,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
+Joe Cunningham,RepCunningham,2019-01-01T00:00:00Z,1080198683713507335,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
+Joe Cunningham,JoeCunninghamSC,2017-01-31T00:00:00Z,826589191412862976,male,United States of America,1982-05-26T00:00:00Z,38.0,joecunninghamsc,Democratic Party
 Joe Donnelly,SenDonnelly,2010-11-16T00:00:00Z,216503958,male,United States of America,1955-09-29T00:00:00Z,65.0,sendonnelly,Democratic Party
 Joe Dorman,Dorman2014,,t2070991010,male,United States of America,1970-09-18T00:00:00Z,50.0,joe_dorman,Democratic Party
 Joe Hogsett,IndyMayorJoe,,,male,United States of America,1956-06-30T00:00:00Z,64.0,mayorjoeforindy,Democratic Party
 Joe Kennedy III,repjoekennedy,2013-01-02T00:00:00Z,1055907624,male,United States of America,1980-10-04T00:00:00Z,40.0,repkennedy,Democratic Party
 Joe Lieberman,JoeLieberman,2009-10-21T00:00:00Z,84129740,male,United States of America,1942-02-24T00:00:00Z,78.0,,Democratic Party
 Joe Manchin,Sen_JoeManchin,2011-01-05T00:00:00Z,234374703,male,United States of America,1947-08-24T00:00:00Z,73.0,joemanchin,Democratic Party
+Joe McDonald,joemacphoto,,,male,United States of America,1966-07-01T00:00:00Z,54.0,,Republican Party
+Joe McDonald,joemacphoto,,,male,United States of America,1966-07-01T00:00:00Z,54.0,,Republican Party of Minnesota
 Joe Moody,moodyforelpaso,2010-08-07T00:00:00Z,175847438,male,United States of America,1981-01-09T00:00:00Z,39.0,,Democratic Party
 Joe Neguse,JoeNeguse,2013-06-23T00:00:00Z,1542372750,male,United States of America,1984-05-13T00:00:00Z,36.0,,Democratic Party
 Joe Sanfelippo,JoeSanfelippo,2012-05-04T00:00:00Z,571169403,male,United States of America,1964-02-26T00:00:00Z,56.0,,Republican Party
@@ -1307,8 +1322,6 @@ Julian Carroll,julianpcarroll,,,male,United States of America,1931-01-01T00:00:0
 Julian Carroll,julianpcarroll,,,male,United States of America,1931-04-16T00:00:00Z,89.0,,Democratic Party
 Julie Anne Genter,JulieAnneGenter,2010-04-05T00:00:00Z,129943834,female,United States of America,1979-12-17T00:00:00Z,40.0,julieannegenter,Green Party of Aotearoa New Zealand
 Julissa Ferreras,JulissaFerreras,2009-04-28T00:00:00Z,36118658,female,United States of America,1976-11-02T00:00:00Z,44.0,,Democratic Party
-Julián Castro,JulianCastro,2009-01-28T00:00:00Z,19682187,male,United States of America,1974-09-16T00:00:00Z,46.0,juliancastrotx,Democratic Party
-Julián Castro,JulianCastro,,,male,United States of America,1974-09-16T00:00:00Z,46.0,juliancastrotx,Democratic Party
 Julián Castro,juliancastro,2009-01-28T00:00:00Z,19682187,male,United States of America,1974-09-16T00:00:00Z,46.0,juliancastrotx,Democratic Party
 Julián Castro,juliancastro,,,male,United States of America,1974-09-16T00:00:00Z,46.0,juliancastrotx,Democratic Party
 Justin Amash,justinamash,2011-01-04T00:00:00Z,233842454,male,United States of America,1980-04-18T00:00:00Z,40.0,,Libertarian Party
@@ -1349,10 +1362,10 @@ Kathleen Vinehout,VinehoutK,2012-02-21T00:00:00Z,499262656,female,United States 
 Kathleen Williams,WilliamsForMT,2011-03-09T00:00:00Z,263345878,female,United States of America,1961-02-16T00:00:00Z,59.0,,Democratic Party
 Kathy Byron,kathybyron,2012-09-14T00:00:00Z,823611157,female,United States of America,1953-09-05T00:00:00Z,67.0,,Republican Party
 Kathy Castor,USRepKCastor,2013-09-18T00:00:00Z,1880674038,female,United States of America,1966-08-20T00:00:00Z,54.0,,Democratic Party
-Kathy Hochul,LtGovHochulNY,2010-03-31T00:00:00Z,128290790,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
-Kathy Hochul,LtGovHochulNY,,,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
 Kathy Hochul,kathyhochul,2010-03-31T00:00:00Z,128290790,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
 Kathy Hochul,kathyhochul,,,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
+Kathy Hochul,LtGovHochulNY,2010-03-31T00:00:00Z,128290790,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
+Kathy Hochul,LtGovHochulNY,,,female,United States of America,1958-08-27T00:00:00Z,62.0,ltgovhochulny,Democratic Party
 Kathy Sheehan,Sheehan4Albany,2019-02-20T00:00:00Z,1098293927197720576,female,United States of America,1963-12-05T00:00:00Z,56.0,,Democratic Party
 Katie Arrington,karringtonsc,2009-03-19T00:00:00Z,25375137,female,United States of America,1970-12-06T00:00:00Z,49.0,katie4sc,Republican Party
 Katie Hill,RepKatieHill,2018-11-29T00:00:00Z,1068273911224094721,female,United States of America,1987-08-25T00:00:00Z,33.0,repkatiehill,Democratic Party
@@ -1372,6 +1385,7 @@ Kelda Roys,keldahelenroys,2009-11-24T00:00:00Z,92354626,female,United States of 
 Kelli Ward,kelliwardaz,2011-08-21T00:00:00Z,359403242,female,United States of America,1969-01-25T00:00:00Z,51.0,kelliwardaz,Arizona Republican Party
 Kelli Ward,kelliwardaz,2011-08-21T00:00:00Z,359403242,female,United States of America,1969-01-25T00:00:00Z,51.0,kelliwardaz,Republican Party
 Kelly Ayotte,KellyAyotte,2010-12-22T00:00:00Z,229592356,female,United States of America,1968-06-27T00:00:00Z,52.0,,Republican Party
+Kelly Cassidy,RepKellyCassidy,2011-07-21T00:00:00Z,339751234,female,United States of America,,,,Democratic Party
 Kelly Loeffler,kloeffler,2009-04-07T00:00:00Z,29495695,female,United States of America,1970-11-27T00:00:00Z,49.0,kloefflerga,Republican Party
 Kelly M. Armstrong,Armstrong_ND,2019-01-02T00:00:00Z,1080515866255593472,male,United States of America,1976-10-08T00:00:00Z,44.0,,Republican Party
 Kelly M. Armstrong,RepArmstrongND,2019-01-02T00:00:00Z,1080515866255593472,male,United States of America,1976-10-08T00:00:00Z,44.0,,Republican Party
@@ -1440,6 +1454,7 @@ Larry Pressler,larrypressler,2014-03-14T00:00:00Z,2389851715,male,United States 
 Lashrecse Aird,delegateaird,2016-07-07T00:00:00Z,751075331801485313,female,United States of America,1986-06-22T00:00:00Z,34.0,,Democratic Party
 Laura Bush,laurawbush,2010-04-09T00:00:00Z,131204770,female,United States of America,1946-11-04T00:00:00Z,74.0,,Republican Party
 Laura Kelly,GovLauraKelly,2018-09-13T00:00:00Z,1040058893907513344,female,United States of America,1950-01-24T00:00:00Z,70.0,govlaurakelly,Democratic Party
+Lauren Boebert,laurenboebert,,,female,United States of America,1986-12-15T00:00:00Z,33.0,,Republican Party
 Lauren Cheape,laurencheape,,,female,United States of America,1987-08-16T00:00:00Z,33.0,,Republican Party
 Lauren Underwood,LUnderwood630,,,female,United States of America,1986-10-04T00:00:00Z,34.0,,Democratic Party
 Lawrence Lessig,lessig,2007-12-20T00:00:00Z,11388132,male,United States of America,1961-06-03T00:00:00Z,59.0,,Democratic Party
@@ -1509,7 +1524,7 @@ Luther Strange,SenatorStrange,2017-02-09T00:00:00Z,829794295355940866,male,Unite
 Lyda Krewson,LydaKrewson,,,female,United States of America,1953-01-13T00:00:00Z,67.0,lydakrewsonstl,Democratic Party
 Lyndon Carlson,RepCarlson,2017-02-28T00:00:00Z,836623463230156800,male,United States of America,1940-04-18T00:00:00Z,80.0,,Democratic Party
 Lyndon Carlson,RepCarlson,2017-02-28T00:00:00Z,836623463230156800,male,United States of America,1940-04-18T00:00:00Z,80.0,,Minnesota Democratic–Farmer–Labor Party
-Lynn Jenkins,RepLynnJenkins,,t2086248539,female,United States of America,1963-06-10T00:00:00Z,57.0,replynnjenkins,Republican Party
+Lynn Jenkins,RepLynnJenkins,,t2104608315,female,United States of America,1963-06-10T00:00:00Z,57.0,replynnjenkins,Republican Party
 Lynn Westmoreland,RepWestmoreland,,t2086306000,male,United States of America,1950-04-02T00:00:00Z,70.0,,Republican Party
 Lynne Patton,LynnePattonHUD,2009-03-19T00:00:00Z,25413556,female,United States of America,1973-01-01T00:00:00Z,47.0,lynnepatton,Republican Party
 Lynne Patton,LynnePatton,2009-03-19T00:00:00Z,25413556,female,United States of America,1973-01-01T00:00:00Z,47.0,lynnepatton,Republican Party
@@ -1519,12 +1534,12 @@ Mac Schneider,mac4northdakota,2017-06-25T00:00:00Z,879127520423096320,male,Unite
 Mac Thornberry,MacTXPress,2011-09-21T00:00:00Z,377534571,male,United States of America,1958-07-15T00:00:00Z,62.0,,Republican Party
 Macon Phillips,IIPCoordinator,2010-02-02T00:00:00Z,110823581,male,United States of America,1978-06-29T00:00:00Z,42.0,,Democratic Party
 Madeleine Albright,madeleine,2013-08-28T00:00:00Z,1707321486,female,Czech Republic,1937-05-15T00:00:00Z,83.0,,Democratic Party
-Madeleine Dean,RepDean,2012-04-30T00:00:00Z,567508925,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
-Madeleine Dean,RepDean,2017-11-29T00:00:00Z,935717078966964228,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
-Madeleine Dean,RepDean,,t2103615748,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
 Madeleine Dean,MadeleineDean,2012-04-30T00:00:00Z,567508925,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
+Madeleine Dean,RepDean,2012-04-30T00:00:00Z,567508925,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
 Madeleine Dean,MadeleineDean,2017-11-29T00:00:00Z,935717078966964228,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
+Madeleine Dean,RepDean,2017-11-29T00:00:00Z,935717078966964228,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
 Madeleine Dean,MadeleineDean,,t2103615748,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
+Madeleine Dean,RepDean,,t2103615748,female,United States of America,1959-06-06T00:00:00Z,61.0,,Democratic Party
 Madeleine M. Kunin,MadeleineKunin,2012-01-16T00:00:00Z,465807944,female,Switzerland,1933-09-28T00:00:00Z,87.0,,Democratic Party
 Madeline Rogero,Mayorrogero,2011-12-14T00:00:00Z,437198530,female,United States of America,1952-07-26T00:00:00Z,68.0,,Democratic Party
 Madison Cawthorn,CawthornforNC,,,male,United States of America,1995-08-01T00:00:00Z,25.0,,Republican Party
@@ -1532,6 +1547,7 @@ Maggie Hassan,maggie_hassan,2011-08-24T00:00:00Z,361569788,female,United States 
 Maggie Hassan,SenatorHassan,2011-08-24T00:00:00Z,361569788,female,United States of America,1958-02-27T00:00:00Z,62.0,,Democratic Party
 Maggie Hassan,maggie_hassan,2012-11-13T00:00:00Z,946549322,female,United States of America,1958-02-27T00:00:00Z,62.0,,Democratic Party
 Maggie Hassan,SenatorHassan,2012-11-13T00:00:00Z,946549322,female,United States of America,1958-02-27T00:00:00Z,62.0,,Democratic Party
+Maggie Toulouse Oliver,NMSOSMaggie,2012-02-07T00:00:00Z,485907537,female,United States of America,1976-01-01T00:00:00Z,44.0,,Democratic Party
 Mahlon Mitchell,MahlonMitchell,2011-07-11T00:00:00Z,333150431,male,United States of America,1977-02-24T00:00:00Z,43.0,,Democratic Party
 Malcolm Smith,MalcSmitty,2010-03-06T00:00:00Z,120550155,male,United States of America,1956-08-09T00:00:00Z,64.0,,Democratic Party
 Malia Cohen,MaliaCohen,2009-11-30T00:00:00Z,93744888,female,United States of America,1977-12-16T00:00:00Z,42.0,malia.cohen,Democratic Party
@@ -1549,16 +1565,16 @@ Marcus Molinaro,marcmolinaro,2008-11-24T00:00:00Z,17581393,male,United States of
 Marcus Simon,marcussimon,2008-04-21T00:00:00Z,14466551,male,United States of America,1970-07-01T00:00:00Z,50.0,,Democratic Party
 Marcy Kaptur,RepMarcyKaptur,2012-05-15T00:00:00Z,581141508,female,United States of America,1946-06-17T00:00:00Z,74.0,repmarcykaptur,Democratic Party
 Margaret Ransone,MargaretRansone,2014-08-19T00:00:00Z,2746183652,female,United States of America,1973-04-24T00:00:00Z,47.0,,Republican Party
+Mari Manoogian,MariManoogian,,,female,United States of America,1992-09-03T00:00:00Z,28.0,marimanoogian,Democratic Party
 Maria Cantwell,SenatorCantwell,2010-02-25T00:00:00Z,117501995,female,United States of America,1958-10-13T00:00:00Z,62.0,,Democratic Party
 Maria Chappelle-Nadal,MariaChappelleN,2009-10-16T00:00:00Z,83039463,female,United States of America,1974-10-03T00:00:00Z,46.0,,Democratic Party
-Maria Walsh,MariaWalshEU,2015-06-29T00:00:00Z,3350861938,female,United States of America,1987-06-11T00:00:00Z,33.0,honorawalsh,Fine Gael
-Maria Walsh,MariaWalshEU,2015-06-29T00:00:00Z,3350861938,female,United States of America,1987-06-11T00:00:00Z,33.0,mariawalsheu,Fine Gael
 Marianne Williamson,marwilliamson,2009-02-21T00:00:00Z,21522338,female,United States of America,1952-07-08T00:00:00Z,68.0,mariannewilliamson,Democratic Party
 Mariannette Miller-Meeks,millermeeks,2008-12-14T00:00:00Z,18131106,female,United States of America,1955-09-06T00:00:00Z,65.0,,Republican Party of Iowa
 Marie Waldron,MarieWaldron75,2009-02-04T00:00:00Z,20078631,female,United States of America,1960-03-28T00:00:00Z,60.0,,Republican Party
 Marie Waldron,MarieWaldron75,2009-02-04T00:00:00Z,20078631,female,United States of America,1960-03-28T00:00:00Z,60.0,,California Republican Party
 Mario Díaz-Balart,MarioDB,2009-05-01T00:00:00Z,37094727,male,United States of America,1961-09-25T00:00:00Z,59.0,repmariodb,Republican Party
 Mario Díaz-Balart,MarioDB,2009-05-01T00:00:00Z,37094727,male,United States of America,1961-09-25T00:00:00Z,59.0,repmariodb,Democratic Party
+Marjorie Taylor Greene,mtgreenee,2017-01-30T00:00:00Z,826065164504006657,female,United States of America,1974-05-27T00:00:00Z,46.0,greeneforcongress,Republican Party
 Mark Amodei,MarkAmodeiNV2,2011-11-01T00:00:00Z,402719755,male,United States of America,1958-06-12T00:00:00Z,62.0,markamodeinv2,Republican Party
 Mark Begich,MarkBegich,2008-04-10T00:00:00Z,14354562,male,United States of America,1962-03-30T00:00:00Z,58.0,,Democratic Party
 Mark Cole,MarkColeVA,2013-08-27T00:00:00Z,1706107621,male,United States of America,1958-06-06T00:00:00Z,62.0,,Republican Party
@@ -1691,6 +1707,7 @@ Michelle Obama,MichelleObama,2013-01-15T00:00:00Z,1093090866,female,United State
 Michelle Obama,FLOTUS44,2013-01-15T00:00:00Z,1093090866,female,United States of America,1964-01-17T00:00:00Z,56.0,michelleobama,Democratic Party
 Michelle Park Steel,taxfightersteel,2013-08-05T00:00:00Z,1648452434,female,South Korea,1955-06-21T00:00:00Z,65.0,,Republican Party
 Michelle Wu,wutrain,2009-02-12T00:00:00Z,20659868,female,United States of America,1985-01-14T00:00:00Z,35.0,,Democratic Party
+Michèle Flournoy,micheleflournoy,,,female,United States of America,1960-12-14T00:00:00Z,59.0,,Democratic Party
 Mick Cornett,MickforGovernor,2017-07-27T00:00:00Z,890599321460256769,male,United States of America,1958-07-16T00:00:00Z,62.0,,Republican Party
 Mick Mulvaney,mickmulvaneyomb,,240385577,male,United States of America,1967-07-21T00:00:00Z,53.0,,Republican Party
 Mick Mulvaney,mickmulvaneyomb,2017-07-20T00:00:00Z,888031054141022209,male,United States of America,1967-07-21T00:00:00Z,53.0,,Republican Party
@@ -1703,10 +1720,11 @@ Mike Braun,SenatorBraun,2019-01-03T00:00:00Z,1080870981877534720,male,United Sta
 Mike Braun,braun4indiana,2013-09-13T00:00:00Z,1861019372,male,United States of America,1954-03-24T00:00:00Z,66.0,,Republican Party
 Mike Braun,SenatorBraun,2013-09-13T00:00:00Z,1861019372,male,United States of America,1954-03-24T00:00:00Z,66.0,,Republican Party
 Mike Capuano,RepMikeCapuano,,t2085587199,male,United States of America,1952-01-09T00:00:00Z,68.0,,Democratic Party
-Mike Coffman,AuroraMayorMike,2009-01-23T00:00:00Z,19407835,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
-Mike Coffman,AuroraMayorMike,,,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
+Mike Carter,RepMikeCarter,,,male,United States of America,1953-10-16T00:00:00Z,67.0,,Republican Party
 Mike Coffman,RepMikeCoffman,2009-01-23T00:00:00Z,19407835,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
 Mike Coffman,RepMikeCoffman,,,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
+Mike Coffman,AuroraMayorMike,2009-01-23T00:00:00Z,19407835,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
+Mike Coffman,AuroraMayorMike,,,male,United States of America,1955-03-19T00:00:00Z,65.0,,Republican Party
 Mike Conaway,ConawayTX11,2011-05-09T00:00:00Z,295685416,male,United States of America,1948-06-11T00:00:00Z,72.0,mikeconawaytx11,Republican Party
 Mike Cooney,LtGovMikeCooney,,,male,United States of America,1954-09-03T00:00:00Z,66.0,cooneyformt,Democratic Party
 Mike Crapo,MikeCrapo,2011-11-15T00:00:00Z,413160266,male,United States of America,1951-05-20T00:00:00Z,69.0,mikecrapo,Republican Party
@@ -1738,12 +1756,12 @@ Mike McCready,mccready4mi,,,male,United States of America,1960-08-08T00:00:00Z,6
 Mike Miller,Mike_Miller_FL,2008-10-20T00:00:00Z,16874913,male,United States of America,1968-05-18T00:00:00Z,52.0,,Republican Party
 Mike Pantelides,MayorPantelides,2014-02-01T00:00:00Z,2364318860,male,United States of America,1983-09-05T00:00:00Z,37.0,mayorpantelides,Republican Party
 Mike Parson,GovParsonMO,2009-09-15T00:00:00Z,74522684,male,United States of America,1950-01-01T00:00:00Z,70.0,govparsonmo,Republican Party
-Mike Parson,GovParsonMO,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1950-01-01T00:00:00Z,70.0,govparsonmo,Republican Party
-Mike Parson,GovParsonMO,2009-09-15T00:00:00Z,74522684,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
-Mike Parson,GovParsonMO,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
 Mike Parson,mikeparson,2009-09-15T00:00:00Z,74522684,male,United States of America,1950-01-01T00:00:00Z,70.0,govparsonmo,Republican Party
+Mike Parson,GovParsonMO,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1950-01-01T00:00:00Z,70.0,govparsonmo,Republican Party
 Mike Parson,mikeparson,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1950-01-01T00:00:00Z,70.0,govparsonmo,Republican Party
+Mike Parson,GovParsonMO,2009-09-15T00:00:00Z,74522684,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
 Mike Parson,mikeparson,2009-09-15T00:00:00Z,74522684,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
+Mike Parson,GovParsonMO,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
 Mike Parson,mikeparson,2018-06-04T00:00:00Z,1003672320781807616,male,United States of America,1955-09-17T00:00:00Z,65.0,govparsonmo,Republican Party
 Mike Pence,mike_pence,2008-08-01T00:00:00Z,15985455,male,United States of America,1959-06-07T00:00:00Z,61.0,mikepence,Republican Party
 Mike Pence,mike_pence,2009-02-01T00:00:00Z,22203756,male,United States of America,1959-06-07T00:00:00Z,61.0,mikepence,Republican Party
@@ -1753,6 +1771,7 @@ Mike Pence,VP,2009-02-01T00:00:00Z,22203756,male,United States of America,1959-0
 Mike Pence,VP,2017-01-20T00:00:00Z,818910970567344128,male,United States of America,1959-06-07T00:00:00Z,61.0,mikepence,Republican Party
 Mike Pompeo,SecPompeo,2018-04-23T00:00:00Z,988573326376427520,male,United States of America,1963-12-30T00:00:00Z,56.0,,Republican Party
 Mike Quigley,RepMikeQuigley,2009-07-14T00:00:00Z,56864092,male,United States of America,1958-10-17T00:00:00Z,62.0,repmikequigley,Democratic Party
+Mike Regan,SenatorReganPA,,,male,United States of America,1961-09-10T00:00:00Z,59.0,,Republican Party
 Mike Ross,MikeRossUpdates,2010-01-29T00:00:00Z,109645448,male,United States of America,1961-08-02T00:00:00Z,59.0,,Democratic Party
 Mike Rounds,SenatorRounds,2015-01-01T00:00:00Z,2955485182,male,United States of America,1954-10-24T00:00:00Z,66.0,,Republican Party
 Mike Rounds,SenatorRounds,,2955485182,male,United States of America,1954-10-24T00:00:00Z,66.0,,Republican Party
@@ -1772,12 +1791,12 @@ Mindy Finn,mindyfinn,,,female,United States of America,1980-02-10T00:00:00Z,40.0
 Miro Weinberger,mirobtv,2010-01-07T00:00:00Z,102887944,male,United States of America,1970-02-25T00:00:00Z,50.0,,Democratic Party
 Mitch Daniels,purduemitch,2013-01-25T00:00:00Z,1119798144,male,United States of America,1949-04-07T00:00:00Z,71.0,,Republican Party
 Mitch Landrieu,MitchLandrieu,2010-09-07T00:00:00Z,188000721,male,United States of America,1960-08-16T00:00:00Z,60.0,,Democratic Party
-Mitch McConnell,senatemajldr,2011-07-21T00:00:00Z,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
-Mitch McConnell,senatemajldr,2013-03-07T00:00:00Z,1249982359,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
-Mitch McConnell,senatemajldr,,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
 Mitch McConnell,McConnellPress,2011-07-21T00:00:00Z,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
 Mitch McConnell,McConnellPress,2013-03-07T00:00:00Z,1249982359,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
 Mitch McConnell,McConnellPress,,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
+Mitch McConnell,senatemajldr,2011-07-21T00:00:00Z,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
+Mitch McConnell,senatemajldr,2013-03-07T00:00:00Z,1249982359,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
+Mitch McConnell,senatemajldr,,339822881,male,United States of America,1942-02-20T00:00:00Z,78.0,mcconnellpress,Republican Party
 Mitt Romney,MittRomney,2009-06-23T00:00:00Z,50055701,male,United States of America,1947-03-12T00:00:00Z,73.0,mittromney,Republican Party
 Mo Brooks,RepMoBrooks,2011-01-12T00:00:00Z,237299871,male,United States of America,1954-04-29T00:00:00Z,66.0,,Republican Party
 Mo Cowan,mocowan,2009-12-21T00:00:00Z,98554447,male,United States of America,1969-04-04T00:00:00Z,51.0,,Democratic Party
@@ -1860,8 +1879,8 @@ Patrick Joseph Toomey,SenToomey,2010-11-29T00:00:00Z,221162525,male,United State
 Patrick Joseph Toomey,SenToomey,,,male,United States of America,1961-11-17T00:00:00Z,59.0,senpattoomey,Republican Party
 Patrick Leahy,SenatorLeahy,2011-01-25T00:00:00Z,242836537,male,United States of America,1940-03-31T00:00:00Z,80.0,senatorleahy,Democratic Party
 Patrick McHenry,PatrickMcHenry,2009-03-30T00:00:00Z,27676828,male,United States of America,1975-10-22T00:00:00Z,45.0,reppatrickmchenry,Republican Party
-Patrick Murphy,repmurphyfl,,t2071571695,male,United States of America,1983-03-30T00:00:00Z,37.0,patrickmurphyfl,Democratic Party
-Patrick Murphy,repmurphyfl,,t2071571695,male,United States of America,1983-03-30T00:00:00Z,37.0,patrickmurphyfl,Republican Party
+Patrick Murphy,repmurphyfl,,t2104612050,male,United States of America,1983-03-30T00:00:00Z,37.0,patrickmurphyfl,Democratic Party
+Patrick Murphy,repmurphyfl,,t2104612050,male,United States of America,1983-03-30T00:00:00Z,37.0,patrickmurphyfl,Republican Party
 Patti Solis Doyle,PattiSolisDoyle,2011-11-29T00:00:00Z,424511268,female,United States of America,1965-08-23T00:00:00Z,55.0,,Democratic Party
 Patty Murray,PattyMurray,2011-05-04T00:00:00Z,293131808,female,United States of America,1950-10-11T00:00:00Z,70.0,senpattymurray,Democratic Party
 Patty Ritchie,senatorritchie,2013-01-17T00:00:00Z,1098737419,female,United States of America,1962-02-22T00:00:00Z,58.0,,Republican Party
@@ -1870,6 +1889,9 @@ Paul Bettencourt,TeamBettencourt,2014-11-06T00:00:00Z,2864015602,male,United Sta
 Paul Cook,RepPaulCook,2013-01-09T00:00:00Z,1074412920,male,United States of America,1943-03-03T00:00:00Z,77.0,,Republican Party
 Paul Davis,PaulDavisKS,2011-09-01T00:00:00Z,366078108,male,United States of America,1972-07-12T00:00:00Z,48.0,,Democratic Party
 Paul Gosar,repgosar,2011-01-20T00:00:00Z,240760644,male,United States of America,1958-11-27T00:00:00Z,61.0,repgosar,Republican Party
+Paul Gosar,repgosar,,,male,United States of America,1958-11-27T00:00:00Z,61.0,repgosar,Republican Party
+Paul Gosar,DrPaulGosar,2011-01-20T00:00:00Z,240760644,male,United States of America,1958-11-27T00:00:00Z,61.0,repgosar,Republican Party
+Paul Gosar,DrPaulGosar,,,male,United States of America,1958-11-27T00:00:00Z,61.0,repgosar,Republican Party
 Paul Hornback,SenatorHornback,,,male,United States of America,,,,Republican Party
 Paul Krekorian,PaulKrekorian,2009-02-04T00:00:00Z,20092276,male,United States of America,1960-03-24T00:00:00Z,60.0,paulkrekorian,Democratic Party
 Paul Krizek,KrizekForVA,2015-01-07T00:00:00Z,2966173305,male,United States of America,1961-07-22T00:00:00Z,59.0,,Democratic Party
@@ -1922,6 +1944,7 @@ Rady Mom,repradymom,,,male,Cambodia,1970-01-01T00:00:00Z,50.0,,Democratic Party
 RaeAnn Kelsch,raekelsch,2013-10-28T00:00:00Z,2161324848,female,United States of America,1959-11-16T00:00:00Z,61.0,rkelsch,Republican Party
 Rafael Anchia,rafaelanchia,2008-10-28T00:00:00Z,17025489,male,United States of America,1968-09-26T00:00:00Z,52.0,rafaelanchia,Democratic Party
 Rahm Emanuel,RahmEmanuel,2010-10-01T00:00:00Z,197594920,male,United States of America,1959-11-29T00:00:00Z,60.0,,Democratic Party
+Raj Mukherji,RajMukherji,2009-11-15T00:00:00Z,90278451,male,India,1984-07-15T00:00:00Z,36.0,,Democratic Party
 Raja Krishnamoorthi,congressmanraja,2016-12-28T00:00:00Z,814179031956488192,male,India,1973-07-19T00:00:00Z,47.0,congressmanraja,Democratic Party
 Ralph Abraham,RepAbraham,2015-01-05T00:00:00Z,2962891515,male,United States of America,1954-09-16T00:00:00Z,66.0,,Republican Party
 Ralph Nader,RalphNader,2009-09-01T00:00:00Z,77314692,male,United States of America,1934-02-27T00:00:00Z,86.0,,Green Party of the United States
@@ -1988,12 +2011,12 @@ Rick Nolan,USRepRickNolan,2013-01-02T00:00:00Z,1055685948,male,United States of 
 Rick Nolan,USRepRickNolan,2013-01-02T00:00:00Z,1055685948,male,United States of America,1943-12-17T00:00:00Z,76.0,,Democratic Party
 Rick Palacio,RickPalacio,2010-12-09T00:00:00Z,224766531,male,United States of America,1974-11-03T00:00:00Z,46.0,,Democratic Party
 Rick Perales,RepPerales,,,male,United States of America,1959-09-22T00:00:00Z,61.0,,Republican Party
-Rick Perry,SecretaryPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
 Rick Perry,SecretaryPerry,2017-02-01T00:00:00Z,830128820447539208,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
 Rick Perry,GovernorPerry,2017-02-01T00:00:00Z,830128820447539208,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
+Rick Perry,SecretaryPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
+Rick Perry,GovernorPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
 Rick Perry,SecretaryPerry,2017-02-01T00:00:00Z,830128820447539208,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Republican Party
 Rick Perry,GovernorPerry,2017-02-01T00:00:00Z,830128820447539208,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Republican Party
-Rick Perry,GovernorPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Democratic Party
 Rick Perry,SecretaryPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Republican Party
 Rick Perry,GovernorPerry,2009-01-01T00:00:00Z,18906561,male,United States of America,1950-03-04T00:00:00Z,70.0,governorperry,Republican Party
 Rick Saccone,RickSaccone4PA,2017-01-13T00:00:00Z,819949184782630914,male,United States of America,1958-02-14T00:00:00Z,62.0,,Republican Party
@@ -2041,7 +2064,7 @@ Rocky De La Fuente,JoinRocky,,,male,United States of America,1954-10-10T00:00:00
 Rod Blagojevich,governorrod,2010-05-31T00:00:00Z,150247918,male,United States of America,1956-12-10T00:00:00Z,63.0,,Democratic Party
 Rod Blum,RepRodBlum,2015-01-06T00:00:00Z,2965083477,male,United States of America,1955-04-26T00:00:00Z,65.0,,Republican Party
 Rodney Ellis,rodneyellis,2009-03-09T00:00:00Z,23438894,male,United States of America,1954-04-07T00:00:00Z,66.0,,Democratic Party
-Rodney Frelinghuysen,USRepRodney,,t2086329777,male,United States of America,1946-04-29T00:00:00Z,74.0,usreprodney,Republican Party
+Rodney Frelinghuysen,USRepRodney,,t2105620657,male,United States of America,1946-04-29T00:00:00Z,74.0,usreprodney,Republican Party
 Rodney L. Davis,RodneyDavis,2012-12-06T00:00:00Z,993153006,male,United States of America,1970-01-05T00:00:00Z,50.0,reprodneydavis,Republican Party
 Roger Berliner,rogerberliner,2009-06-02T00:00:00Z,44129684,male,United States of America,1951-02-12T00:00:00Z,69.0,,Maryland Democratic Party
 Roger Marshall,RogerMarshallMD,2013-03-03T00:00:00Z,1240107944,male,United States of America,1960-08-09T00:00:00Z,60.0,repmarshall,Republican Party
@@ -2093,16 +2116,17 @@ Roy Cooper,RoyCooperNC,2013-08-30T00:00:00Z,1712960918,male,United States of Ame
 Roy Moore,MooreSenate,,t2094652558,male,United States of America,1947-02-11T00:00:00Z,73.0,,Republican Party
 Royce West,SenRoyceWest,,,male,United States of America,1952-09-26T00:00:00Z,68.0,roycewesttx,Democratic Party
 Ruben Gallego,RepRubenGallego,2015-01-07T00:00:00Z,2966570782,male,United States of America,1979-11-20T00:00:00Z,40.0,reprubengallego,Democratic Party
-Ruben Kihuen,RubenKihuen,2010-01-05T00:00:00Z,102178242,male,Mexico,1980-04-25T00:00:00Z,40.0,repkihuen,Democratic Party
 Ruben Kihuen,RepKihuen,2017-01-03T00:00:00Z,816282029276938240,male,Mexico,1980-04-25T00:00:00Z,40.0,repkihuen,Democratic Party
 Ruben Kihuen,RubenKihuen,2017-01-03T00:00:00Z,816282029276938240,male,Mexico,1980-04-25T00:00:00Z,40.0,repkihuen,Democratic Party
 Ruben Kihuen,RepKihuen,2010-01-05T00:00:00Z,102178242,male,Mexico,1980-04-25T00:00:00Z,40.0,repkihuen,Democratic Party
+Ruben Kihuen,RubenKihuen,2010-01-05T00:00:00Z,102178242,male,Mexico,1980-04-25T00:00:00Z,40.0,repkihuen,Democratic Party
 "Rubén Díaz, Sr.",revrubendiaz,,,male,United States of America,1943-04-22T00:00:00Z,77.0,councilmanrevrubendiaz,Democratic Party
 "Rubén Díaz, Sr.",revrubendiaz,,,male,Puerto Rico,1943-04-22T00:00:00Z,77.0,councilmanrevrubendiaz,Democratic Party
 Rubén Hinojosa,USRepRHinojosa,2011-01-18T00:00:00Z,239905257,male,United States of America,1940-08-20T00:00:00Z,80.0,,Democratic Party
 Rudy Giuliani,RudyGiuliani,2016-08-31T00:00:00Z,770781940341288960,male,United States of America,1944-05-28T00:00:00Z,76.0,,Republican Party
 Rushern Baker,RushernBaker,,,male,United States of America,1958-10-24T00:00:00Z,62.0,ctyexecbaker,Democratic Party
 Russ Carnahan,russcarnahan,2008-09-09T00:00:00Z,16212113,male,United States of America,1958-07-10T00:00:00Z,62.0,,Democratic Party
+Russ Diamond,russdiamond,,,male,United States of America,1963-07-26T00:00:00Z,57.0,,Republican Party
 Russ Feingold,russfeingold,2008-10-14T00:00:00Z,16742806,male,United States of America,1953-03-02T00:00:00Z,67.0,,Democratic Party
 Russ Fulcher,RussFulcher,2010-07-30T00:00:00Z,172944579,male,United States of America,1963-03-09T00:00:00Z,57.0,,Republican Party
 Russell Holmes,VoteRussell,,,male,United States of America,1969-08-17T00:00:00Z,51.0,,Democratic Party
@@ -2129,7 +2153,7 @@ Sara Gideon,SaraGideon,2019-06-14T00:00:00Z,1139607716941500417,female,United St
 Sarah Davis,SarahforHD134,,,female,United States of America,1976-05-18T00:00:00Z,44.0,,Republican Party
 Sarah McBride,SarahEMcBride,2011-03-25T00:00:00Z,272191896,transgender female,United States of America,1990-08-09T00:00:00Z,30.0,sarahemcbride,Democratic Party
 Sarah Palin,SarahPalinUSA,2009-08-13T00:00:00Z,65493023,female,United States of America,1964-02-11T00:00:00Z,56.0,,Republican Party
-Sarah Peake,skpeake,,,female,United States of America,1957-10-04T00:00:00Z,63.0,,Democratic Party
+Sarah Peake,skpeake,,,female,Spain,1957-10-04T00:00:00Z,63.0,,Democratic Party
 Sarah Sanders,SHSanders45,2007-04-01T00:00:00Z,823693635564802048,female,United States of America,1982-08-13T00:00:00Z,38.0,,Republican Party
 Sarah Sanders,SHSanders45,2017-01-23T00:00:00Z,823693635564802048,female,United States of America,1982-08-13T00:00:00Z,38.0,,Republican Party
 Satya Rhodes-Conway,src2,2018-03-21T00:00:00Z,976268847299821569,female,United States of America,1971-01-01T00:00:00Z,49.0,satyaformadison,Democratic Party
@@ -2170,9 +2194,7 @@ Sean Parnell,seanparnellak,2009-07-06T00:00:00Z,54359015,male,United States of A
 Sean Patrick Maloney,RepSeanMaloney,2013-01-09T00:00:00Z,1072467470,male,Canada,1966-07-30T00:00:00Z,54.0,repseanpatrickmaloney,Democratic Party
 Sean Penn,SeanPenn,,,male,United States of America,1960-08-17T00:00:00Z,60.0,,Democratic Party
 Sean Spicer,seanspicer,2009-02-13T00:00:00Z,20776147,male,United States of America,1971-09-23T00:00:00Z,49.0,seanmspicer,Republican Party
-Sean Spicer,PressSec,2009-02-13T00:00:00Z,20776147,male,United States of America,1971-09-23T00:00:00Z,49.0,seanmspicer,Republican Party
 Sean Spicer,seanspicer,2017-01-10T00:00:00Z,818927131883356161,male,United States of America,1971-09-23T00:00:00Z,49.0,seanmspicer,Republican Party
-Sean Spicer,PressSec,2017-01-10T00:00:00Z,818927131883356161,male,United States of America,1971-09-23T00:00:00Z,49.0,seanmspicer,Republican Party
 Seth Moulton,sethmoulton,2011-02-06T00:00:00Z,248495200,male,United States of America,1978-10-24T00:00:00Z,42.0,repmoulton,Democratic Party
 Seth Moulton,teammoulton,2011-02-06T00:00:00Z,248495200,male,United States of America,1978-10-24T00:00:00Z,42.0,repmoulton,Democratic Party
 Seth Moulton,sethmoulton,2015-03-13T00:00:00Z,3091316093,male,United States of America,1978-10-24T00:00:00Z,42.0,repmoulton,Democratic Party
@@ -2234,7 +2256,7 @@ Steve Pearce,Pearce4NM,,,male,United States of America,1947-08-24T00:00:00Z,73.0
 Steve Russell,RepRussell,2015-01-07T00:00:00Z,2966758114,male,United States of America,1963-05-25T00:00:00Z,57.0,,Republican Party
 Steve Scalise,stevescalise,2013-02-22T00:00:00Z,1209417007,male,United States of America,1965-10-06T00:00:00Z,55.0,stevescalise,Republican Party
 Steve Schmidt,SteveSchmidtSES,2016-10-12T00:00:00Z,786309892990574592,male,United States of America,1970-09-28T00:00:00Z,50.0,,Republican Party
-Steve Sisolak,SteveSisolak,2015-04-01T00:00:00Z,3124524385,male,United States of America,1953-12-26T00:00:00Z,66.0,,Democratic Party
+Steve Sisolak,SteveSisolak,2015-04-01T00:00:00Z,3124524385,male,United States of America,1953-12-26T00:00:00Z,66.0,stevesisolak,Democratic Party
 Steve Stivers,RepSteveStivers,2010-11-03T00:00:00Z,211420609,male,United States of America,1965-03-24T00:00:00Z,55.0,repstevestivers,Republican Party
 Steve Stivers,RepSteveStivers,2010-11-03T00:00:00Z,211420609,male,United States of America,1965-03-24T00:00:00Z,55.0,repstevestivers,Republican Party
 Steve Toth,Toth_4_Texas,,,male,United States of America,1960-11-29T00:00:00Z,59.0,,Republican Party
@@ -2291,15 +2313,15 @@ Tammy Baldwin,tammybaldwin,2009-11-04T00:00:00Z,87510313,female,United States of
 Tammy Baldwin,SenatorBaldwin,2009-11-04T00:00:00Z,87510313,female,United States of America,1962-02-11T00:00:00Z,58.0,senatorbaldwin,Democratic Party
 Tammy Baldwin,tammybaldwin,2013-01-09T00:00:00Z,1074518754,female,United States of America,1962-02-11T00:00:00Z,58.0,senatorbaldwin,Democratic Party
 Tammy Baldwin,SenatorBaldwin,2013-01-09T00:00:00Z,1074518754,female,United States of America,1962-02-11T00:00:00Z,58.0,senatorbaldwin,Democratic Party
-Tammy Duckworth,senduckworth,,t2102917860,female,Thailand,1968-03-12T00:00:00Z,52.0,repduckworth,Democratic Party
+Tammy Duckworth,senduckworth,,t2110427365,female,Thailand,1968-03-12T00:00:00Z,52.0,repduckworth,Democratic Party
 Tammy Duckworth,senduckworth,2013-01-03T00:00:00Z,1058520120,female,Thailand,1968-03-12T00:00:00Z,52.0,repduckworth,Democratic Party
 Tate Reeves,tatereeves,2011-03-01T00:00:00Z,259341329,male,United States of America,1974-06-05T00:00:00Z,46.0,tatereeves,Republican Party
 Ted Budd,RepTedBudd,2017-01-05T00:00:00Z,817138492614524928,male,United States of America,1971-10-21T00:00:00Z,49.0,,Republican Party
 Ted Deutch,RepTedDeutch,2010-04-27T00:00:00Z,137794015,male,United States of America,1966-05-07T00:00:00Z,54.0,repteddeutch,Democratic Party
-Ted Gatsas,MayorTedGatsas,,t2086551419,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
-Ted Gatsas,Gatsas4Governor,,t2086551419,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
-Ted Gatsas,MayorTedGatsas,,t2086551418,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
-Ted Gatsas,Gatsas4Governor,,t2086551418,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
+Ted Gatsas,MayorTedGatsas,,t2105502320,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
+Ted Gatsas,Gatsas4Governor,,t2105502320,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
+Ted Gatsas,MayorTedGatsas,,t2105502319,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
+Ted Gatsas,Gatsas4Governor,,t2105502319,male,United States of America,1950-05-22T00:00:00Z,70.0,gatsas4governor,Republican Party
 Ted Howze,Ted_Howze,,,male,United States of America,1966-01-01T00:00:00Z,54.0,,Republican Party
 Ted Howze,Ted_Howze,2018-03-10T00:00:00Z,972304553809883137,male,United States of America,1966-01-01T00:00:00Z,54.0,,Republican Party
 Ted Lieu,tedlieu,2015-02-19T00:00:00Z,3044993235,male,Taiwan,1969-03-29T00:00:00Z,51.0,reptedlieu,Democratic Party
@@ -2315,6 +2337,7 @@ Ted Strickland,ted_strickland,2009-04-21T00:00:00Z,34012907,male,United States o
 Ted Terry,tedterry1,,,male,United States of America,1983-01-01T00:00:00Z,37.0,tedterry1,Democratic Party
 Ted Vogt,VogtForArizona,,,male,United States of America,1973-02-20T00:00:00Z,47.0,,Republican Party
 Ted Yoho,RepTedYoho,2013-01-08T00:00:00Z,1071900114,male,United States of America,1955-04-13T00:00:00Z,65.0,reptedyoho,Republican Party
+Teresa Fedor,teresa_fedor,2013-10-30T00:00:00Z,2165364858,female,United States of America,1956-05-26T00:00:00Z,64.0,,Democratic Party
 Terri Sewell,RepTerriSewell,2011-09-27T00:00:00Z,381152398,female,United States of America,1965-01-01T00:00:00Z,55.0,,Democratic Party
 Terry Austin,TerryAustin4HOD,2013-04-03T00:00:00Z,1325194064,male,United States of America,1955-10-16T00:00:00Z,65.0,,Republican Party
 Terry Branstad,terrybranstad,2009-10-22T00:00:00Z,84406725,male,United States of America,1946-11-17T00:00:00Z,74.0,,Republican Party
@@ -2396,7 +2419,7 @@ Tom Malinowski,Malinowski,2016-12-20T00:00:00Z,811239440916054016,male,United St
 Tom Malinowski,RepMalinowski,2019-01-03T00:00:00Z,1080898026418384897,male,United States of America,1965-09-15T00:00:00Z,55.0,malinowskifornj,Democratic Party
 Tom Malinowski,RepMalinowski,2016-12-20T00:00:00Z,811239440916054016,male,United States of America,1965-09-15T00:00:00Z,55.0,malinowskifornj,Democratic Party
 Tom Marino,RepTomMarino,2012-05-14T00:00:00Z,579624328,male,United States of America,1952-08-13T00:00:00Z,68.0,reptommarino,Republican Party
-Tom McClintock,RepMcClintock,2009-06-23T00:00:00Z,50152441,male,United States of America,1956-07-10T00:00:00Z,64.0,,Republican Party
+Tom McClintock,RepMcClintock,2009-06-23T00:00:00Z,50152441,male,Spain,1956-07-10T00:00:00Z,64.0,,Republican Party
 Tom Nelson,NelsonforWI,2016-05-23T00:00:00Z,734892732691451905,male,United States of America,1976-03-03T00:00:00Z,44.0,,Democratic Party
 Tom O'Halleran,repohalleran,2016-12-12T00:00:00Z,808416682972770304,male,United States of America,1946-01-24T00:00:00Z,74.0,repohalleran,Republican Party
 Tom O'Halleran,repohalleran,2016-12-12T00:00:00Z,808416682972770304,male,United States of America,1946-01-24T00:00:00Z,74.0,repohalleran,Democratic Party
@@ -2463,13 +2486,14 @@ Vicente González,RepGonzalez,2017-01-09T00:00:00Z,818536152588238849,male,Unite
 Vicky Hartzler,RepHartzler,2011-01-13T00:00:00Z,237763317,female,United States of America,1960-10-13T00:00:00Z,60.0,rephartzler,Republican Party
 Vicky Hartzler,RepHartzler,2011-01-13T00:00:00Z,237763317,female,United States of America,1960-10-13T00:00:00Z,60.0,rephartzler,Republican Party
 "Victor M. Torres, Jr.",VicTorres_FL,,,male,United States of America,1947-07-22T00:00:00Z,73.0,,Democratic Party
+Victoria Neave,victoria4texas,,,female,United States of America,1980-12-29T00:00:00Z,39.0,victoria4texas,Democratic Party
 Victoria Seaman,VictoriaDseaman,2010-08-04T00:00:00Z,174715313,female,United States of America,,,,Republican Party
 Vincent C. Gray,mayorvincegray,2011-01-28T00:00:00Z,244183930,male,United States of America,1942-11-08T00:00:00Z,78.0,,Democratic Party
 Vincent Hughes,SenatorHughes,,,male,United States of America,1956-10-26T00:00:00Z,64.0,,Democratic Party
 Virginia Foxx,VirginiaFoxx,2008-09-12T00:00:00Z,16256269,female,United States of America,1943-06-29T00:00:00Z,77.0,repvirginiafoxx,Republican Party
 Walter B. Jones,RepWalterJones,2009-03-26T00:00:00Z,26778110,male,United States of America,1943-02-10T00:00:00Z,77.0,repwalterbjones,Democratic Party
 Walter B. Jones,RepWalterJones,2009-03-26T00:00:00Z,26778110,male,United States of America,1943-02-10T00:00:00Z,77.0,repwalterbjones,Republican Party
-Warren Davidson,RepWDavidson,,t2086389588,male,United States of America,1970-03-01T00:00:00Z,50.0,instawarrendavidson,Republican Party
+Warren Davidson,RepWDavidson,,t2108101385,male,United States of America,1970-03-01T00:00:00Z,50.0,instawarrendavidson,Republican Party
 Wayne Allyn Root,RealWayneRoot,2009-05-06T00:00:00Z,38284349,male,United States of America,1961-07-20T00:00:00Z,59.0,,Republican Party
 Wayne Goodwin,waynegoodwinnc,2011-12-09T00:00:00Z,432860670,male,United States of America,1967-02-22T00:00:00Z,53.0,,Democratic Party
 Wayne Messam,WayneMessam,2009-04-21T00:00:00Z,33954145,male,United States of America,1975-06-07T00:00:00Z,45.0,waynemessam,Democratic Party

@@ -88,9 +88,13 @@
 | Abigail Spanberger | SpanbergerVA07   | 2018-12-28T00:00:00Z | 1078771401497161728 | female | United States of America | 1978-08-01T00:00:00Z | 42.0 | repspanberger      | Democratic Party |
 | Abigail Spanberger | RepSpanberger    | 2018-12-28T00:00:00Z | 1078771401497161728 | female | United States of America | 1978-08-01T00:00:00Z | 42.0 | repspanberger      | Democratic Party |
 
- CSV : 2515  rows.
+ CSV : 2539  rows.
 
 # Changes
+## November 29, 2020
+
+ Refining the results (e.g., removal of politicians who are American but practising in other countries).
+
 ## November 17, 2020  (2)
 
  Added two variables:
@@ -115,4 +119,8 @@
 
  November 17, 2020.
 
+# License, notes
+
 W43GVG | Wikidata under  [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Note that the data is extracted from Wikidata, so there may be errors. In case of errors, it is preferable to correct it directly on Wikidata, so it will be corrected in the dataset in the next update.
