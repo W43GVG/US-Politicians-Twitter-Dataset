@@ -128,6 +128,10 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
  Modified:
  - ```birth``` -> country of birth (```Birthplace```)
 
+# External uses
+
+This datased has been ported to [Kaggle](https://www.kaggle.com/mrmorj/us-politicians-twitter-dataset) (not by me).
+
 ## Last update
 
  November 29, 2020.
