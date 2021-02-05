@@ -104,6 +104,16 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
  CSV : 2539  rows.
 
 # Changes
+## February 5, 2021
+
+ Refining the results (e.g., removal of politicians who are American but practising in other countries).
+
+ Added one variable:
+ - ```Facebook_ID```
+
+ Modified:
+ - ```Account_start_time``` -> ```Twitter_account_start_time```
+
 ## November 29, 2020
 
  Refining the results (e.g., removal of politicians who are American but practising in other countries).
@@ -130,11 +140,13 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
 
 ## Last update
 
- November 29, 2020.
+ February 5, 2020.
 
 # External uses
 
 This datased has been ported to [Kaggle](https://www.kaggle.com/mrmorj/us-politicians-twitter-dataset) (not by me).
+
+It was used for building this [dataset](https://www.kaggle.com/jeevanbhoot/tweets-from-us-politicians).
 
 # License, notes
 
