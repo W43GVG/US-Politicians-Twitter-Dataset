@@ -105,7 +105,7 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
 | Abigail Spanberger | SpanbergerVA07   | 2018-12-28T00:00:00Z       | 1078771401497161728 | female | United States of America | 1978-08-01T00:00:00Z | 42.0 | repspanberger      | RepSpanberger     | Democratic Party |
 | Abigail Spanberger | RepSpanberger    | 2018-12-28T00:00:00Z       | 1078771401497161728 | female | United States of America | 1978-08-01T00:00:00Z | 42.0 | repspanberger      | RepSpanberger     | Democratic Party |
 
- CSV : 2957 rows.
+ CSV : 2964 rows.
 
 # Changes
 ## February 5, 2021
