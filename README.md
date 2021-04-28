@@ -108,6 +108,10 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
  CSV : 2964 rows.
 
 # Changes
+## April 28, 2021
+
+ Refining the results (e.g., removal of politicians who are American but practising in other countries).
+
 ## February 5, 2021
 
  Refining the results (e.g., removal of politicians who are American but practising in other countries).
