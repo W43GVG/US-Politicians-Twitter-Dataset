@@ -1,6 +1,6 @@
 # US Politicians Twitter Dataset
 
- Dataset based on Twitter usernames of American politicians. Data extracted from Wikidata.
+ Dataset based on Twitter usernames of American politicians. Data was extracted from Wikidata with SPARQL.
  
  Variables :
 
