@@ -23,13 +23,17 @@
 
 # Examples
 
-```
+```bash
 git clone https://github.com/W43GVG/US-Politicians-Twitter-Dataset
+```
+
+```bash
+gh repo clone W43GVG/US-Politicians-Twitter-Dataset
 ```
 
 ## JSON
 
-```
+```bash
 wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/master/dataset.json
 ```
 
@@ -88,7 +92,7 @@ wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/mas
 
 ## CSV
 
-```
+```bash
 wget https://raw.githubusercontent.com/W43GVG/US-Politicians-Twitter-Dataset/master/dataset.csv
 ```
 
